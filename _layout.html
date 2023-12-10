@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+
+    <div id="sidebar">
+        <h2>目录</h2>
+        <ul>
+            {% for chapter in chapters %}
+                <li><a href="{{ chapter.html }}">{{ chapter.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div id="content">
+        {{ content }}
+    </div>
+
+    <div id="navigation">
+        {% if previous_chapter %}
+            <a href="{{ previous_chapter.html }}">上一章</a>
+        {% endif %}
+
+        {% if next_chapter %}
+            <a href="{{ next_chapter.html }}">下一章</a>
+        {% endif %}
+    </div>
+</body>
+</html>
