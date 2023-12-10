@@ -1,17 +1,17 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            SOC-8
+longtitle:        跨性别和多元性别人群健康照护指南第八版（SOC-8）
+author:           SOC-8中文翻译组
+email:            suggest@soc8cn.xyz
 description: >
-  Build Jekyll site with the GitBook style.
+  本文为 WPATH 的授权翻译版本，原文是一篇开放获取文章，根据 知识共享：署名 - 非商业性使用 - 禁止演绎 4.0 国际公共许可协议 的条款分发，允许以任何媒介进行非商业性再次使用、分发和复制，前提是原始作品被正确引用，并且不以任何方式更改、转换或基于该作品创作。
 
-version:          1.0
-gitbook_version:  3.2.3
+# version:          1.0
+# gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
-rss:              RSS
+# url:              'https://sighingnow.github.io'
+# baseurl:          '/jekyll-gitbook'
+# rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook

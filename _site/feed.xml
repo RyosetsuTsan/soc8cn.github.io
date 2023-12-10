@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-10T11:22:02-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SOC-8</title><subtitle>本文为 WPATH 的授权翻译版本，原文是一篇开放获取文章，根据 知识共享：署名 - 非商业性使用 - 禁止演绎 4.0 国际公共许可协议 的条款分发，允许以任何媒介进行非商业性再次使用、分发和复制，前提是原始作品被正确引用，并且不以任何方式更改、转换或基于该作品创作。
+</subtitle><author><name>SOC-8中文翻译组</name></author><entry><title type="html">翻译用词对照表</title><link href="http://localhost:4000/jekyll/2023-12-02-word-list.html" rel="alternate" type="text/html" title="翻译用词对照表" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/word-list</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-word-list.html"><![CDATA[<p>以下列出本中文译本中未被术语表涵盖的部分译词所对应英文原文，以备参考。</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"><strong>英文原文</strong></th>
+      <th style="text-align: left"><strong>译词</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">(genital) packing</td>
+      <td style="text-align: left">（生殖器）填充</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">(genital) tucking</td>
+      <td style="text-align: left">（生殖器）束缚隐藏</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">affirmed gender</td>
+      <td style="text-align: left">（所）肯定的性别</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">allonormativity</td>
+      <td style="text-align: left">有性恋本位</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">autism spectrum disorder</td>
+      <td style="text-align: left">孤独症谱系障碍</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">bioidentical</td>
+      <td style="text-align: left">生物同质</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">care</td>
+      <td style="text-align: left">照护</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">caregiver</td>
+      <td style="text-align: left">照顾者</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cisnormality</td>
+      <td style="text-align: left">顺性别本位</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">conversion/reparative therapy</td>
+      <td style="text-align: left">扭转/矫正治疗</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">culturally competent</td>
+      <td style="text-align: left">拥有（在当地文化背景下工作的）文化能力/文化交流能力的</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">culturally relevant</td>
+      <td style="text-align: left">符合文化背景的</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">culturally responsive</td>
+      <td style="text-align: left">适应文化背景的</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">culturally sensitive</td>
+      <td style="text-align: left">文化敏感的</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">detransition</td>
+      <td style="text-align: left">逆性别过渡</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">disparity</td>
+      <td style="text-align: left">（某一群体的）弱势</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">distress</td>
+      <td style="text-align: left">（心理）痛苦</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ecological approach</td>
+      <td style="text-align: left">生态学方法</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">experienced gender</td>
+      <td style="text-align: left">（所）体验的性别</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">family dynamics</td>
+      <td style="text-align: left">家庭动力学（状况）</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">fertility preservation</td>
+      <td style="text-align: left">生育力保存</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gatekeeping</td>
+      <td style="text-align: left">门控把关</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender affirming (medical and/or surgical) treatment, GAMST</td>
+      <td style="text-align: left">性别肯定医疗、性别肯定治疗</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender affirming hormone treatment, GAHT</td>
+      <td style="text-align: left">性别肯定激素治疗</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender development</td>
+      <td style="text-align: left">性别发展</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender diversity</td>
+      <td style="text-align: left">多元性别特质</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender fluidity</td>
+      <td style="text-align: left">性别流动性</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender identity changing efforts</td>
+      <td style="text-align: left">改变性别认同的措施</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender minority stress</td>
+      <td style="text-align: left">性别少数群体压力</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender nonconforming</td>
+      <td style="text-align: left">性别非常规</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gender questioning</td>
+      <td style="text-align: left">性别存疑</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">gendered self</td>
+      <td style="text-align: left">性别自我</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">harm reduction</td>
+      <td style="text-align: left">减害策略</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">health care professional, HCP</td>
+      <td style="text-align: left">医务人员</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">heteronormality</td>
+      <td style="text-align: left">异性恋本位</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">impairment</td>
+      <td style="text-align: left">（心理功能）损害</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">informed consent/assent</td>
+      <td style="text-align: left">知情同意/许可</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">institutional environments/settings</td>
+      <td style="text-align: left">机构环境</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">intersectionality</td>
+      <td style="text-align: left">交叉性、多元交织性</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">medical transition</td>
+      <td style="text-align: left">医疗过渡</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">mental health professional, MHP</td>
+      <td style="text-align: left">心理健康专业人士</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">neurodiversity</td>
+      <td style="text-align: left">神经多样性</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">peer</td>
+      <td style="text-align: left">同伴，同侪</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">peer navigator</td>
+      <td style="text-align: left">同伴引导员</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">progestin</td>
+      <td style="text-align: left">孕激素类药物</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">puberty blocker</td>
+      <td style="text-align: left">青春期阻滞剂</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">puberty blocking, puberty suppression</td>
+      <td style="text-align: left">青春期阻滞</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">recommend</td>
+      <td style="text-align: left">建议（作为对有较强证据的建议声明的分级）</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">resilience</td>
+      <td style="text-align: left">（心理）韧性</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sex assigned at birth</td>
+      <td style="text-align: left">出生时受指派性别</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">sexuality</td>
+      <td style="text-align: left">性存在</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">social transition</td>
+      <td style="text-align: left">社会过渡</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Standard of Care, SOC</td>
+      <td style="text-align: left">照护指南</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">suggest</td>
+      <td style="text-align: left">提议（作为对有较弱证据的建议声明的分级）</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">titration</td>
+      <td style="text-align: left">（剂量）滴定</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">transgender and gender diverse</td>
+      <td style="text-align: left">跨性别和多元性别</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[以下列出本中文译本中未被术语表涵盖的部分译词所对应英文原文，以备参考。]]></summary></entry><entry><title type="html">致谢</title><link href="http://localhost:4000/jekyll/2023-12-02-acknowledgements.html" rel="alternate" type="text/html" title="致谢" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/acknowledgements</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-acknowledgements.html"><![CDATA[<h2 id="致谢">致谢</h2>
+
+<p>感谢约翰斯霍普金斯大学医学教授Karen A. Robinson及其团队进行了所有系统综述，并在SOC-8建议的制定中提供了帮助。在伦理考虑方面，我们感谢Carol Bayley、Simona Giordano和Sharon Sytsma的贡献。在法律角度上，我们感谢Jennifer Levi和Phil Duran的专业支持。参考文献核对方面，我们感谢Taymy Caso、Oscar Dimant、Zil Goldstein、Ali Harris和Nat Thorne的工作。编辑方面，我们感谢Margueritte White和Jun Xia的帮助。行政支持方面，我们感谢Blaine Vella、Taylor O’Sullivan和Jamie Hicks的支持。最后，我们要感谢所有在公开评论期间提供意见的参与者以及全球跨性别平等行动（Global Action for Trans Equality, GATE），亚太跨性别网络（Asia Pacific Transgender Network Foundation, APTN），国际女同性恋、男同性恋、双性恋、跨性别和间性协会（International Lesbian, Gay, Bisexual, Trans and Intersex Association, ILGA）和欧洲跨性别者协会（Transgender Europe, TGEU）对SOC-8早期版本的有益和建设性的反馈。</p>
+
+<h2 id="利益冲突">利益冲突</h2>
+
+<p>在委员会成员的选任过程中，以及在出版前的最后阶段，进行了利益冲突的审查。未发现任何被认为有重大或存在后果的利益冲突的情况。</p>
+
+<h2 id="伦理审批">伦理审批</h2>
+
+<p>本文不包含任何作者所进行的涉及人类参与者的研究。</p>
+
+<h2 id="经费来源">经费来源</h2>
+
+<p>该项目部分经费来源于Tawani基金会的拨款。大部分费用用于支付约翰斯霍普金斯大学的循证实践中心的工作。编辑和参考文献审查人员获得了象征性报酬。委员会成员并没有因为其贡献而获得报酬。部分委员会主席的差旅费用由WPATH负担。WPATH的工作人员和其它内部费用由协会的预算支付。</p>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[致谢]]></summary></entry><entry><title type="html">附录A 方法论</title><link href="http://localhost:4000/jekyll/2023-12-02-appendixA.html" rel="alternate" type="text/html" title="附录A 方法论" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/appendixA</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-appendixA.html"><![CDATA[<h2 id="1绪论">1．绪论</h2>
+
+<p>相比于以往的版本，本版照护指南（SOC-8）采用了更加严谨的、遵循明确的方法论的循证写作方法。本指南使用的证据不仅基于已发表的文献（直接和背景证据），也包括基于共识的专家意见。本循证指南包含了旨在优化相关照护的建议，这些建议基于对证据的系统性回顾以及对各种治疗选择之利弊的评估。虽然循证研究为可靠的临床实践指南和建议提供了依据，但必须权衡不同环境下提供照护的实际状况和可行性。在SOC-8的制定过程中，我们结合了美国国家医学院和世界卫生组织关于制定临床实践指南的建议，其中涉及透明度、利益冲突政策、委员会组成和小组程序（group process）（Institute of Medicine Committee on Standards for Developing Trustworthy Clinical Practice, 2011; World Health Organization, 2019a）。</p>
+
+<p>SOC-8修订委员会由多学科的、涵盖不同观点并代表不同地域的主题专家、医疗保健专业人员、研究人员和利益相关者组成。所有委员会成员均作出了利益冲突声明。[^*]</p>
+
+<p>一位指南制定的方法学专家在制订计划和确定问题方面提供了帮助；独立团队作出了系统综述，这些系统综述用于指导部分建议的制定。国际顾问委员会、法律专家以及公众意见反馈为本指南提供了补充意见。SOC-8中的建议基于支持干预措施的现有证据，对风险和危害的讨论，以及在不同环境和国家背景下的可行性和可接受性。最终建议的共识通过德尔菲程序达成，涵盖了委员会的所有成员，并要求得到至少75％的成员的赞成。各章节编写成员就相关证据撰写了建议声明的支持性和说明性文本。SOC修订委员会主席和联合主席审查了各章草案，以确保格式一致、证据适当，且各章节的建议一致。独立团队审查了SOC-8引用的参考文献，随后一名专业人员进行了全面的审校。SOC-8的方法论概述如下。</p>
+
+<h2 id="2soc-8方法论与以往版本的差异">2.SOC-8方法论与以往版本的差异</h2>
+
+<p>SOC-8方法论与以往版本的主要区别在于：</p>
+
+<ul>
+  <li>全球各地有更多专业人士参与本指南的制定；</li>
+  <li>采用透明的遴选程序组建指南制定指导委员会，选任各章节负责人和编写成员；</li>
+  <li>多方面的利益相关者参与SOC-8的制定；</li>
+  <li>管理利益冲突；</li>
+  <li>使用德尔菲法以使SOC-8委员会成员就建议达成一致；</li>
+  <li>知名大学的独立机构参与本指南的制定，该机构帮助制定方法论，并在允许的情况下进行独立的系统性文献综述；</li>
+  <li>根据推荐程度，将建议分为“建议”或“提议”；</li>
+  <li>独立的临床学者小组对文献引用进行审查；</li>
+  <li>从事跨性别和多元性别社群工作的国际组织、WPATH及其它专业组织的成员和一般公众参与本指南的制定，其中公众在意见征询期就SOC-8全文提供反馈意见。</li>
+</ul>
+
+<h2 id="3soc-8制定过程概述">3.SOC-8制定过程概述</h2>
+
+<p>本照护指南的主要更新步骤如下：</p>
+
+<ol>
+  <li>成立指南制定指导委员会，选任主席和联合主席（2017年7月19日）。</li>
+  <li>确定指南的章节，即涵盖的范围。</li>
+  <li>根据专业能力选定各章节编写成员（2018年3月）。</li>
+  <li>选定约翰斯霍普金斯大学的证据审查团队（2018年5月）。</li>
+  <li>完善SOC-8涵盖的主题，审阅即将提交进行系统综述的问题。</li>
+  <li>进行系统综述（2019年3月）。</li>
+  <li>起草建议声明。</li>
+  <li>使用德尔菲法对建议声明进行投票（2019年9月至2022年2月）。</li>
+  <li>对建议声明进行评级。</li>
+  <li>撰写建议声明的支持性文本。</li>
+  <li>独立验证支持性文本中使用的参考文献。</li>
+  <li>完成SOC-8草稿（2021年12月1日）。</li>
+  <li>国际顾问委员会就建议声明提出反馈意见。</li>
+  <li>在公众意见征询期就SOC-8的草稿全文收集反馈意见（2021年11月至2022年1月）。</li>
+  <li>根据意见修订终稿（2022年1月至2022年5月）。</li>
+  <li>主席和联合主席批准终稿（2022年6月10日）。</li>
+  <li>WPATH理事会批准。</li>
+  <li>发布SOC-8。</li>
+  <li>宣传、翻译SOC-8。</li>
+</ol>
+
+<h3 id="31-指南制定指导委员会的成立">3.1 指南制定指导委员会的成立</h3>
+
+<p>WPATH指南制定指导委员会监督了本指南所有章节的制定过程。除主席伊莱·科尔曼（Eli Coleman）由WPATH理事会任命以保持与SOC以往版本的连续性外，指南制定指导委员会其余成员由WPATH理事会从申请的WPATH成员中选出。我们为联合主席、章节负责人、章节编写成员和利益相关者的职位撰写了职责说明，WPATH成员可通过提交申请表和简历申请这些职位。WPATH理事会就联合主席选任进行了投票（一名理事因利益冲突未参与）。主席和联合主席根据申请表和简历选定了章节负责人、章节编写成员，以及利益相关者。</p>
+
+<p>SOC-8指南制定指导委员会名单：</p>
+
+<ul>
+  <li>伊莱·科尔曼（Eli Coleman），博士（主席）。美国明尼苏达大学医学院家庭医学与社区卫生系教授，性与性别健康研究所主任兼学术主席。</li>
+  <li>阿萨·雷迪克斯（Asa Radix），医学博士，博士，公共卫生硕士（联合主席）。Callen-Lorde社区卫生中心研究与教学高级主任，美国纽约大学临床医学副教授。</li>
+  <li>乔恩·阿塞勒斯（Jon Arcelus），医学博士，博士（联合主席）。英国诺丁汉大学心理健康与福祉教授，跨性别健康荣誉顾问。</li>
+  <li>凯伦·罗宾逊（Karen A. Robinson），博士（证据审查团队负责人）。美国约翰斯霍普金斯大学医学、流行病学、卫生政策与管理教授。</li>
+</ul>
+
+<h3 id="32-各章节主题的确定">3.2 各章节主题的确定</h3>
+
+<p>指南制定指导委员会回顾文献和上一版SOC，以确定本照护指南包含的章节。SOC-8的章节如下：</p>
+
+<ol>
+  <li>术语使用</li>
+  <li>全球适用性</li>
+  <li>相关人口估算</li>
+  <li>教育</li>
+  <li>成年群体的评估</li>
+  <li>青少年</li>
+  <li>儿童</li>
+  <li>非二元性别</li>
+  <li>Eunuch</li>
+  <li>间性人</li>
+  <li>机构环境</li>
+  <li>激素治疗</li>
+  <li>手术及术后护理</li>
+  <li>嗓音和沟通</li>
+  <li>初级保健</li>
+  <li>生殖健康</li>
+  <li>性健康</li>
+  <li>心理健康</li>
+</ol>
+
+<p>“教育”一章原计划覆盖教育和伦理两部分内容，但指导委员会后决定成立单独的委员会编写伦理相关章节。在编写“伦理”一章的过程中，我们认为SOC-8不适合囊括伦理这一主题，且跨性别健康相关伦理问题仍需深入研究。</p>
+
+<h3 id="33-各章节编写成员的选定">3.3 各章节编写成员的选定</h3>
+
+<p>我们向WPATH会员发送了申请成为SOC-8审查委员会章节负责人和编写成员的通知。指南制定指导委员会诸位主席任命了各章节的编写成员，其中确保有来自各种学科和观点的代表。</p>
+
+<p>章节负责人和编写成员必须是声誉良好的WPATH正式会员，同时至少是指南中某一章节主题方面的专家。章节负责人向指南制定指导委员会汇报工作，负责协调各章节编写成员的工作。章节编写成员直接向章节负责人汇报工作。</p>
+
+<p>各章节编写成员还包括利益相关者，这些人提供了跨性别健康的倡导和维权以及社群工作的视角，或提供了作为跨性别人士（作为孩子、兄弟姐妹、伴侣、家长等）家人的视角。利益相关者不必是WPATH的正式会员。</p>
+
+<p>章节编写成员负责：</p>
+
+<ul>
+  <li>参与综述问题的制定和完善</li>
+  <li>阅读证据审查团队提供的资料并提出意见</li>
+  <li>批判性地审阅文件草稿，包括证据报告草稿</li>
+  <li>审查并评估证据和建议草稿</li>
+  <li>参与达成共识的德尔菲法程序</li>
+  <li>撰写建议声明的支持性文本</li>
+  <li>对每项建议声明进行分级，确定建议的级别</li>
+  <li>在指南制定过程中审阅并处理主席和联合主席的意见</li>
+  <li>编写各章节内容</li>
+  <li>审阅公众意见，协助指南修订</li>
+  <li>提出个人建议，参与本指南的传播</li>
+</ul>
+
+<p>根据需要，我们为章节负责人和编写成员提供了培训和指导。培训内容包括问题的制定和完善（即使用PICO法）、证据审查、建议声明的制定、对证据和建议的分级，以及指南制定计划和过程的相关信息。</p>
+
+<p>我们共任命了26名章节负责人（部分章节需要共同负责人）、77名章节编写成员和16名利益相关者，共选定了127人。在指南制定过程中，8人因个人或工作因素离开，故SOC-8的最终作者共119人。</p>
+
+<h3 id="34-证据审查团队的选定">3.4 证据审查团队的选定</h3>
+
+<p>WPATH理事会发布了征集证据审查人员的请求，并为SOC-8聘请了凯伦·罗宾逊领导的约翰斯霍普金斯大学证据审查团队。</p>
+
+<ul>
+  <li>凯伦·罗宾逊（Karen A. Robinson），博士（证据审查团队负责人）。美国约翰斯霍普金斯大学医学、流行病学、卫生政策与管理教授。</li>
+</ul>
+
+<p>罗宾逊博士还为指导委员会制定SOC-8的工作提供了指导，包括在使用PICO法提出问题、制定建议声明、德尔菲法程序，以及在有直接证据的情况下进行严格的系统性文献综述等方面的建议和培训。</p>
+
+<h4 id="利益冲突"><em>利益冲突</em></h4>
+
+<p>我们要求指南制定指导委员会成员、章节负责人、章节编写成员以及证据审查团队成员披露所有利益冲突。除了潜在的经济利益、利益竞争和利益冲突，报告的内容还包括与主席、联合主席或WPATH理事会成员的私人关系和直接汇报关系，或在WPATH理事会担任的职务。</p>
+
+<h3 id="35-主题的完善与问题的审阅">3.5 主题的完善与问题的审阅</h3>
+
+<p>证据审查团队总结了SOC的以往版本的建议声明。在证据审查团队的参与下，指南制定指导委员会和章节负责人确定了：</p>
+
+<ul>
+  <li>需要更新的建议声明</li>
+  <li>需要作出建议声明的新领域</li>
+</ul>
+
+<h3 id="36-系统性文献综述">3.6 系统性文献综述</h3>
+
+<p>章节编写成员起草了问题，以帮助制定建议声明。对于适合进行系统性综述的问题，证据审查团队起草了综述问题，细化了目标群体、干预因素、比较组和结果（即PICO要素）。证据审查团队进行了系统性综述，随后向相关章节的编写成员提供了证据列表及得到的其它结果，并征求反馈意见。</p>
+
+<h4 id="方案"><em>方案</em></h4>
+
+<p>根据需要，为每个综述问题或主题制定了单独的详细系统综述方案。每个方案都在PROSPERO上注册。</p>
+
+<h4 id="文献检索"><em>文献检索</em></h4>
+
+<p>证据审查小组根据每个研究问题制定了适当的检索策略，包括MEDLINE®、Embase™和Cochrane Controlled Trials Register（CENTRAL）。证据审查小组根据研究问题的需要检索了其他相关数据库。检索策略包括MeSH和文本查询词，不限制出版语言或日期。</p>
+
+<p>证据审查小组手动检索了所有纳入的文章和最近的相关系统综述的参考文献列表。证据审查小组在ClinicalTrials.gov网站上搜索了任何其它相关研究。</p>
+
+<p>检索内容在同行评审过程中进行了更新。</p>
+
+<p>纳入系统综述的文献大多是基于在欧洲、美国或澳大利亚进行的定量研究。我们承认对来自全球北方的观点存在偏倚，没有对世界各地跨性别和多元性别社群的生活体验和观点的多样性给予足够的关注。文献中可见性的不平衡揭示了研究和实践的空白，需要研究人员和从业者在未来解决，以便公正地对待所有TGD人群的支持需求，无论性别身份如何。</p>
+
+<h4 id="研究选择"><em>研究选择</em></h4>
+
+<p>证据审查小组根据各章工作组负责人的意见，事先确定了每个研究问题的选入标准。</p>
+
+<p>证据审查小组的两名审查员独立筛选了标题、摘要以及全文以决定特定研究是否被选入。若排除特定研究，两位评审员均需要同意该研究至少符合一个排除标准。审查员通过讨论解决有关选入标准的分歧。</p>
+
+<h4 id="数据提取"><em>数据提取</em></h4>
+
+<p>证据审查小组使用标准化表格对一般研究特征、参与者特征、干预措施和结果指标等数据进行提取。一名审查员对数据进行提取，另一名审查员对所提取的数据进行确认。</p>
+
+<h4 id="偏倚风险评估"><em>偏倚风险评估</em></h4>
+
+<p>证据审查小组的两名审查员独立评估了每项选入研究的偏倚风险。对于随机对照试验，使用了Cochrane偏倚风险工具。对于观察性研究，使用了非随机干预研究的偏倚风险（ROBINS-I）工具。在合适情况下，使用ROBIS工具考虑并评估了现有的近期系统综述。</p>
+
+<h4 id="数据综合与分析"><em>数据综合与分析</em></h4>
+
+<p>证据审查小组创建了证据表，详细列出了从纳入的研究中提取的数据。章节工作组的成员对证据表进行了审查并提出了意见。</p>
+
+<h4 id="证据分级"><em>证据分级</em></h4>
+
+<p>证据审查小组使用GRADE方法分配证据等级。证据的强度是通过考虑对每个问题预先定义的关键结果，并通过评估个别研究质量/偏倚风险、一致性、直接性、准确性和报告偏倚五方面的局限性来获得的。</p>
+
+<h3 id="37-起草建议声明">3.7 起草建议声明</h3>
+
+<p>章节负责人和成员起草了建议声明。这些陈述被精心设计成可行的、可操作的和可衡量的。</p>
+
+<p>循证建议声明基于系统和背景文献综述的结果以及基于共识的专家意见。</p>
+
+<p>主席和联合主席以及各章节负责人审查并批准了所有建议声明，以确保措辞的清晰和一致。在此次审查和整个过程中，还处理了各章之间的任何重叠的问题。</p>
+
+<p>许多章节必须密切合作，以确保其建议的一致性。例如，由于现在有单独的儿童和青少年章节，为确保两个章节之间的一致性，一些作者同时参与了两章节。出于类似的原因，在适用的情况下，各章节工作组会就各章节之间共享的主题（即儿童评估、成人评估、激素治疗、手术和术后护理以及生殖健康）进行合作。</p>
+
+<h3 id="38-使用德尔菲程序批准建议">3.8 使用德尔菲程序批准建议</h3>
+
+<p>所有声明的正式共识都通过德尔菲程序获得，这是一种在三轮程序中征求专家意见的结构化过程。要使一项建议得到批准，至少要有75%的投票者赞成该声明。对每项声明，至少需要65%的SOC-8成员参与德尔菲程序。不赞成声明者必须说明不赞成的理由，这样可以根据这些反馈意见修改（或删除）该声明。一旦修改，声明将再次进入德尔菲程序。若三轮之后，声明未被批准，该声明将从SOC中删除。每个SOC成员都对声明进行了投票。这些声明的回复率在74.79%和94.96%之间。</p>
+
+<h3 id="39-声明的评级标准">3.9 声明的评级标准</h3>
+
+<p>一旦声明通过了德尔菲程序，章节成员就会根据GRADE框架对每个声明进行评级。这是一个透明的框架，用于建立和呈示对证据的总结，并为作出临床实践建议提供了系统性的方法（Guyatt et al., 2011）。这些声明是根据以下因素进行评分的:</p>
+
+<ol>
+  <li>对益处和危害的权衡</li>
+  <li>对证据的全面审查</li>
+  <li>服务提供者和服务对象的价值观和偏好</li>
+  <li>资源的消耗和可行性</li>
+</ol>
+
+<p>这些声明被分类为:</p>
+
+<ul>
+  <li>强建议（“我们建议”）针对以下干预/治疗/策略:
+    <ul>
+      <li>证据质量高；</li>
+      <li>对某项干预/治疗/策略的效果的估计（即，可高度确定在实践中会有效）；</li>
+      <li>治疗/干预/策略的缺点很少；</li>
+      <li>服务提供者和服务对象/建议适用的人对建议的接受程度很高。</li>
+    </ul>
+  </li>
+  <li>弱建议（“我们提议”）针对以下干预/治疗/策略:
+    <ul>
+      <li>证据基础存在弱点；</li>
+      <li>对实践中可预期的效果大小存在一定程度的疑问；</li>
+      <li>需要平衡干预/治疗/策略的潜在优势和劣势；</li>
+      <li>服务提供者和服务对象/建议适用的人对建议的接受程度不一。</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="310-撰写声明的支持性文本">3.10 撰写声明的支持性文本</h3>
+
+<p>在对声明进行评级之后，各章节工作组编写了提供建议的理由或逻辑的文本。这包括提供现有证据、提供潜在益处和危害的细节、描述不确定性，以及关于建议实施的信息，包括预期的障碍或挑战等。参考文献使用APA-7样式，以为文本中的信息提供支撑。适当时还提供了资源的链接。主席和联合主席审查并批准了这些文本，包括建议是属于强建议还是弱建议。</p>
+
+<h3 id="311-对用于支持声明的参考文献进行外部验证">3.11 对用于支持声明的参考文献进行外部验证</h3>
+
+<p>一组在跨性别健康领域工作的独立临床学者审查了每章中使用的参考文献，以验证这些参考文献是否被适当地用于支持相应文本。关于参考文献的任何疑问都被发回各章进行审查。</p>
+
+<h3 id="312-完成soc-8草案">3.12 完成SOC-8草案</h3>
+
+<p>SOC-8最终草案被提交以征求意见。</p>
+
+<h3 id="313-分发照护指南供国际顾问审查">3.13 分发照护指南供国际顾问审查</h3>
+
+<p>《照护指南》第八版的建议声明在更广泛的照护指南修订委员会和WPATH国际咨询小组中分发，其中包括亚太跨性别网络（Asia Pacific Transgender Network, APTN），全球跨性别平等行动（Global Action for Transgender Equality, GATE），国际女同性恋、男同性恋、双性恋、跨性别和间性协会（International Lesbian, Gay, Bisexual, Transgender, Intersex Association, ILGA）和欧洲跨性别者协会（Transgender Europe, TGEU）。</p>
+
+<h3 id="314-公众意见征询期">3.14 公众意见征询期</h3>
+
+<p>《照护指南》在WPATH官方网站发布草稿，征求公众和WPATH成员的意见。意见征询期共6周，1,279人提出了2,688条意见。</p>
+
+<h3 id="315-根据意见修订终稿">3.15 根据意见修订终稿</h3>
+
+<p>章节负责人和指南制定指导委员会认真参考了反馈意见，作出了必要的修订。我们阅读了每条公众意见，并酌情将对文本作出相应修改。</p>
+
+<p>在本程序中，我们使用德尔菲法起草了3项新的声明，并大幅修改了2项声明，因其修改幅度需要由SOC-8委员会重新投票。我们在2022年1月发起了新的德尔菲程序。各章节写入了这一程序得出的结果，相应地增加或修改了建议声明，添加了新的支持性文本。</p>
+
+<p>主席和联合主席重新审阅了各新版章节，并提出修改意见。若某草稿得到了主席团和章节编写成员的一致认可，则最终定稿该章节。</p>
+
+<p>一名独立成员复查了新的参考文献。</p>
+
+<h3 id="316-主席和联合主席批准终稿">3.16 主席和联合主席批准终稿</h3>
+
+<p>主席和联合主席审阅了修订部分并同意修订。</p>
+
+<h3 id="317-wpath理事会批准">3.17 WPATH理事会批准</h3>
+
+<p>向WPATH理事会提交终稿，并于2022年6月20日获得了批准。</p>
+
+<h3 id="318-指南的发布与宣传">3.18 指南的发布与宣传</h3>
+
+<p>在多个场合通过多种形式宣传本照护指南，包括在《国际跨性别健康期刊》（International Journal of Transgender Health）即WPATH的官方科学期刊上发表。</p>
+
+<h2 id="4更新计划">4.更新计划</h2>
+
+<p>当该领域出现了新的证据和/或发生了重大变化，需要制定新的版本时，我们将制定新的《照护指南》（SOC-9）。</p>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[1．绪论]]></summary></entry><entry><title type="html">附录B 术语表</title><link href="http://localhost:4000/jekyll/2023-12-02-appendixB.html" rel="alternate" type="text/html" title="附录B 术语表" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/appendixB</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-appendixB.html"><![CDATA[<p><strong>顺性别（Cisgender）</strong> 是指性别认同与出生时受指派性别相符的个体。</p>
+
+<p><strong>逆性别过渡（Detransition）</strong> 是指一个人进行复性别过渡，回到传统上与其出生时受指派性别相符的情况。</p>
+
+<p><strong>Eunuch</strong> 是指出生时受指派性别为男性，其睾丸已经手术切除或无功能，且自我认同为Eunuch的个体。该定义因排除了不具有Eunuch的自我认同的人群而与标准的医学定义不同。</p>
+
+<p><strong>自我认同为Eunuch的个体（Eunuch-Identified）</strong> 是指认为Eunuch一词最能表达其真实自我的个体。自我认同为Eunuch的个体通常希望手术切除其生殖器官或使其失去功能。</p>
+
+<p><strong>性别（Gender）</strong> 根据不同的背景以及上下文环境，“性别”可以指性别认同、性别表达、社会性别角色等，其中包括在文化上与出生时受指派性别（男性或女性）相联系的理解和期待。除了男性和女性（可能是顺性别或跨性别）之外的其它性别认同还包括跨性别、非二元性别、性别酷儿、性别中性、无性别、性别流动和“第三”性别等。在世界范围内，还有许多其它性别得到认可。</p>
+
+<p><strong>性别肯定（Gender-affirmation）</strong> 是指对一个人性别认同的认可或肯定，通常包含社会、心理、医疗和法律等维度。性别肯定一词可被用于替换“性别过渡”（如<em>医疗性别肯定</em>，medical gender-affirmation），或可以作为形容词（如，<em>性别肯定照护</em>，gender-affirming care）。</p>
+
+<p><strong>性别肯定手术（GAS, Gender-affirmation surgery）</strong> 用于形容更改性征以肯定一个人性别认同的手术。</p>
+
+<p><strong>二元性别（Gender binary）</strong> 是指一种观念，即只有男性和女性两种性别；每个人必须属于其中之一；而且所有男子都是男性化的，所有女子都是女性化的。</p>
+
+<p><strong>多元性别（Gender diverse）</strong> 一词用于描述性别认同和/或性别表达不同于对其出生时受指派性别的社会和文化期望的个体，其中涵盖非二元性别、性别拓展、性别非常规等不自我认同为顺性别的人群，以及其它诸多因文化而异的身份认同。</p>
+
+<p><strong>性别烦躁（Gender dysphoria）</strong> 描述了出生时因生理和/或社会因素被指派的性别与个人实际的性别认同不相符而导致痛苦和不适的状态。性别烦躁也是DSM-5中的一个诊断术语，表示出生时受指派性别与其体验的性别不一致，并伴随痛苦。并不是所有的跨性别和多元性别人士都会经历性别烦躁。</p>
+
+<p><strong>性别拓展（Gender expansive）</strong> 一词通常用于描述一部分人群，其身份认同或表达方式超出了在其社会和文化中与特定性别相关的行为或信念。性别独创（Gender creative）一词也时有使用。过去曾使用的性别变异（Gender variant）一词现在由于负面的涵义正在从专业术语中消失。</p>
+
+<p><strong>性别表达（Gender expression）</strong> 是指一个人在日常生活中以及在其文化和社会背景下表现或表达其性别的方式。性别表现包括着装、发型、配饰、化妆、激素和手术干预等外貌的方面，以及举止、言语、行为模式和名称等方面。一个人的性别表达未必与其性别认同一致。</p>
+
+<p><strong>性别认同（Gender identity）</strong> 是指一个人深刻、固有、内在的对自我性别的感知。</p>
+
+<p><strong>性别不一致（Gender incongruence）</strong> 是ICD-11诊断术语，用于描述一个人出生时被指派性别与其性别认同之间存在显著且持续的不相容的体验的状况。</p>
+
+<p><strong>间性人（Intersex）</strong> 是指出生时性别或生殖特征不符合女性或男性二元定义的人群。</p>
+
+<p><strong>性别误称（Misgender/misgendering）</strong> 是指使用与个体的性别认同不相符的语言，包括代词如他/他的（he/his）、她/她的（she/her）、TA/TA的（they/their），以及使用错误的敬称，如先生（sir, Mr.）。</p>
+
+<p><strong>非二元（Nonbinary）</strong> 指在二元性别之外的性别认同。非二元性别认同人士可能认为自己部分是男性部分是女性，或者有时是男性有时是女性，或者认为自己性别既非男性又非女性，或者完全没有性别。非二元人可能使用TA（they/them/their）而不是他（he/him/his）或她（she/her/hers）作为代词。一些非二元人士认为自己是跨性别者，但另一些人不认为如此，因为这些人认为跨性别者是二元性别的一部分。词语NB或“enby”有时用来描述非二元人群。非二元性别认同的例子有性别酷儿、多元性别、流性别、半性别、双性别和无性别等。</p>
+
+<p><strong>复性别过渡（Retransition）</strong> 是指通过社交、医疗或法律手段进行的第二次或以上的性别过渡。复性别过渡可能从一个二元或非二元性别转向另一个二元或非二元性别。一个人可能会多次进行复性别过渡。复性别过渡可能是出于许多原因，包括性别认同的改变、健康问题、家庭/社会问题和财务问题等。</p>
+
+<p><strong>出生时受指派性别（Sex assigned at birth）</strong> 是指基于身体特征而根据出生时外部生殖器外观指派给一个人的男性、女性或间性的身份。AFAB是“出生时被指派为女性”的缩写，AMAB是“出生时被指派为男性”的缩写。</p>
+
+<p><strong>性倾向（Sexual orientation）</strong> 是指一个人基于自身及伴侣的性别和/或性征所拥有的面向他人的性方面的自我认同、受到性吸引的因素以及性行为。性倾向和性别认同是两个不同的概念。</p>
+
+<p><strong>跨性别者（Transgender）</strong> 是一种综合性的术语，用于描述性别认同和/或性别表达通常与其出生时受指派性别不符的人群。在使用时应将其作为形容词而不是名词或动词。</p>
+
+<p><strong>跨性别男性</strong>或<strong>跨男（Trans Men）</strong> 或有 <strong>跨性别经历的男性（Men of Trans Experience）</strong> 是指性别认同为男性而出生时受指派性别为女性的个体。这些人可能有，也可能没有经历任何性别过渡。FTM或女跨男是旧术语，正在逐渐被淘汰。</p>
+
+<p><strong>跨性别女性</strong> 或 <strong>跨女（Trans Women）</strong> 或有 <strong>跨性别经历的女性（Women of Trans Experience）</strong> 是指性别认同为女性而出生时受指派性别为男性的个体。这些人可能有，也可能没有经历任何性别过渡。MTF或男跨女是旧术语，正在逐渐被淘汰。</p>
+
+<p><strong>性别过渡（Transition）</strong> 是指人们通常从与其出生时被指派性别相关联的性别表达过渡至更符合其性别认同的另一种性别表达的过程。人们可以通过更改其姓名、代词、服装、发型和/或行动方式及语言方式等途径进行社会过渡。性别过渡可能涉及也可能不涉及激素和/或手术以获得身体上的改变。性别过渡一词可以用来描述将其性别表达从任何性别转变为另一性别的过程。人在其一生中可能有多次性别过渡。</p>
+
+<p><strong>跨性别恐惧（Transphobia）</strong> 是指对跨性别和多元性别人群持有的负面态度、看法和行为。跨性别恐惧可能作为结构层面上的歧视政策和做法得以实施，也可能以非常具体和个人的方式呈现。若跨性别和多元性别人士接受并反映出对自己或其他跨性别和多元性别人群的偏见，也可以发生内化的跨性别恐惧。虽然跨性别恐惧有时可能是并非有意的无知而非直接的敌视造成的，但其影响绝不是无害的。一些人也会使用<em>反跨性别偏见</em>一词替代跨性别恐惧。</p>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[顺性别（Cisgender） 是指性别认同与出生时受指派性别相符的个体。]]></summary></entry><entry><title type="html">附录C 性别肯定激素干预</title><link href="http://localhost:4000/jekyll/2023-12-02-appendixC.html" rel="alternate" type="text/html" title="附录C 性别肯定激素干预" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/appendixC</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-appendixC.html"><![CDATA[<h2 id="表格1-性别肯定激素干预作用下身体变化的预期时间过程改编自hembree-et-al-2017">表格1 性别肯定激素干预作用下身体变化的预期时间过程（改编自Hembree et al., 2017）</h2>
+
+<h3 id="睾酮干预">睾酮干预</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>效果</strong></th>
+      <th style="text-align: left"><strong>开始时间</strong></th>
+      <th style="text-align: left"><strong>最大化时间</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">皮肤油性增加/痤疮</td>
+      <td style="text-align: left">1 – 6个月</td>
+      <td style="text-align: left">1 - 2年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">面部/身体毛发生长</td>
+      <td style="text-align: left">6 - 12个月</td>
+      <td style="text-align: left">&gt;5年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">雄激素性脱发</td>
+      <td style="text-align: left">6 - 12个月</td>
+      <td style="text-align: left">&gt;5年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">肌肉质量/力量增加</td>
+      <td style="text-align: left">6 - 12个月</td>
+      <td style="text-align: left">2 - 5年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">脂肪重分布</td>
+      <td style="text-align: left">1 - 6个月</td>
+      <td style="text-align: left">2 - 5年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">月经停止</td>
+      <td style="text-align: left">1 - 6个月</td>
+      <td style="text-align: left">1 - 2年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">阴蒂增大</td>
+      <td style="text-align: left">1 - 6个月</td>
+      <td style="text-align: left">1 - 2年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">阴道萎缩</td>
+      <td style="text-align: left">1 - 6个月</td>
+      <td style="text-align: left">1 - 2年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">嗓音降低</td>
+      <td style="text-align: left">1 - 6个月</td>
+      <td style="text-align: left">1 - 2年</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="雌激素干预与雄激素抑制干预">雌激素干预与雄激素抑制干预</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>效果</strong></th>
+      <th style="text-align: left"><strong>开始时间</strong></th>
+      <th style="text-align: left"><strong>最大化时间</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">脂肪重分布</td>
+      <td style="text-align: left">3 - 6个月</td>
+      <td style="text-align: left">2 - 5 年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">肌肉质量/力量减少</td>
+      <td style="text-align: left">3 - 6个月</td>
+      <td style="text-align: left">1 - 2 年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">皮肤变软/油性下降</td>
+      <td style="text-align: left">3 - 6个月</td>
+      <td style="text-align: left">未知</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">性欲减退</td>
+      <td style="text-align: left">1 - 3 个月</td>
+      <td style="text-align: left">未知</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">自发勃起减少</td>
+      <td style="text-align: left">1 - 3 个月</td>
+      <td style="text-align: left">3 - 6月</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">男性性功能障碍</td>
+      <td style="text-align: left">未知</td>
+      <td style="text-align: left">2年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">乳房发育</td>
+      <td style="text-align: left">3 - 6个月</td>
+      <td style="text-align: left">2 - 5年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">睾丸体积减少</td>
+      <td style="text-align: left">3 - 6个月</td>
+      <td style="text-align: left">不一</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">肢端毛发生长减少</td>
+      <td style="text-align: left">6 - 12 个月</td>
+      <td style="text-align: left">&gt;3年</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">头发</td>
+      <td style="text-align: left">不一</td>
+      <td style="text-align: left">不一</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">声音改变</td>
+      <td style="text-align: left">无</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="表格2-与性别肯定激素干预相关的风险">表格2 与性别肯定激素干预相关的风险</h2>
+
+<p>（加粗项表示具有临床意义；更新自SOC - 7）</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>风险等级</strong></th>
+      <th style="text-align: center"><strong>基于雌激素的方案</strong></th>
+      <th style="text-align: center"><strong>基于雄激素的方案</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">很可能增加的风险</td>
+      <td style="text-align: center">&lt;p&gt;<strong>静脉血栓栓塞</strong>&lt;/p&gt;&lt;p&gt;<strong>不育</strong>&lt;/p&gt;&lt;p&gt;高钾血症<sup>S</sup>&lt;/p&gt;&lt;p&gt;高甘油三酯血症&lt;/p&gt;&lt;p&gt;体重增加&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</td>
+      <td style="text-align: center">&lt;p&gt;<strong>红细胞增多症</strong>&lt;/p&gt;&lt;p&gt;<strong>不育</strong>&lt;/p&gt;&lt;p&gt;痤疮&lt;/p&gt;&lt;p&gt;雄激素性脱发&lt;/p&gt;&lt;p&gt;高血压&lt;/p&gt;&lt;p&gt;睡眠呼吸暂停&lt;/p&gt;&lt;p&gt;体重增加&lt;/p&gt;&lt;p&gt;高密度脂蛋白胆固醇降低，低密度脂蛋白胆固醇增加&lt;/p&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">在存在额外风险因素的情况下，很可能增加的风险</td>
+      <td style="text-align: center">&lt;p&gt;心血管疾病&lt;/p&gt;&lt;p&gt;脑血管疾病&lt;/p&gt;&lt;p&gt;基于环丙孕酮的干预方案&lt;/p&gt;&lt;p&gt;脑膜瘤<sup>C</sup>&lt;/p&gt;&lt;p&gt;基于螺内酯的干预方案&lt;/p&gt;&lt;p&gt;多尿/脱水<sup>S</sup>&lt;/p&gt;&lt;p&gt;胆石症&lt;/p&gt;</td>
+      <td style="text-align: center">&lt;p&gt;心血管疾病&lt;/p&gt;&lt;p&gt;高甘油三酯血症&lt;/p&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">有可能增加的风险</td>
+      <td style="text-align: center">&lt;p&gt;高血压&lt;/p&gt;&lt;p&gt;勃起功能障碍&lt;/p&gt;</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">在存在额外风险因素的情况下，可能增加的风险</td>
+      <td style="text-align: center">&lt;p&gt;2型糖尿病&lt;/p&gt;&lt;p&gt;低骨密度/骨质疏松&lt;/p&gt;&lt;p&gt;高泌乳素血症&lt;/p&gt;</td>
+      <td style="text-align: center">&lt;p&gt;2型糖尿病&lt;/p&gt;&lt;p&gt;脑血管疾病&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">无增加风险或不确定</td>
+      <td style="text-align: center">乳腺癌和前列腺癌</td>
+      <td style="text-align: center">&lt;p&gt;低骨密度/骨质疏松&lt;/p&gt;&lt;p&gt;乳腺癌、宫颈癌、卵巢癌、子宫癌&lt;/p&gt;</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>C 基于环丙孕酮的干预方案</p>
+
+<p>S 基于螺内酯的干预方案</p>
+
+<h2 id="表格3-跨性别和多元性别青少年性别肯定激素干预方案">表格3 跨性别和多元性别青少年性别肯定激素干预方案</h2>
+
+<p>（改编自内分泌协会指南；Hembree et al.,2017）</p>
+
+<h3 id="口服17β-雌二醇诱导女性青春期基于雌激素的方案">口服17β-雌二醇诱导女性青春期（基于雌激素的方案）</h3>
+
+<p>开始剂量为5 µg/kg/d，每6个月增加5 µg/kg/d，直到达到20 µg/kg/d（参考雌二醇水平调整）</p>
+
+<p>成人剂量： 2-6 mg/d</p>
+
+<p>在青春期后的TGD青少年中，17β-雌二醇的剂量可以更快地增加：</p>
+
+<p>开始剂量为1mg/d（持续6个月），此后增加至≥2mg/d（参考雌二醇水平调整）</p>
+
+<h3 id="使用透皮17ß-雌二醇诱导女性青春期基于雌激素的方案">使用透皮17ß-雌二醇诱导女性青春期（基于雌激素的方案）</h3>
+
+<p>初始剂量6.25-12.5 µg/24 h（将24 g贴片分为¼-½）</p>
+
+<p>每6个月增加12.5 µg/24 h，滴定至所需剂量（参考雌二醇水平调整）</p>
+
+<p>成人剂量：50-200 µg/24 h</p>
+
+<p>到达成人剂量后的其他方案，请参见表格4</p>
+
+<h3 id="使用睾酮酯类药物诱导男性青春期基于睾酮的方案">使用睾酮酯类药物诱导男性青春期（基于睾酮的方案）</h3>
+
+<p>初始剂量为25 mg/m²（体表面积）/2周（或每周使用此剂量的一半）</p>
+
+<p>每6个月增加25 mg/m²（体表面积）/2周，直到达到成人剂量且达到目标睾酮水平。有关其他睾酮方案，请参见表格4。</p>
+
+<h2 id="表格4-跨性别和多元性别成年人性别肯定激素干预方案">表格4 跨性别和多元性别成年人性别肯定激素干预方案*</h2>
+
+<table>
+    <tr>
+        <th rowspan="9"><b>基于雌激素的方案 （女性倾向）</b></th>
+        <th rowspan="5">雌激素</th>
+        <th rowspan="2">
+            <p>口服</p>
+            <p>或</p>
+            <p>舌下含服</p>
+        </th>
+        <th rowspan="2">雌二醇</th>
+        <th rowspan="2">每日 2.0-6.0 mg</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td rowspan="2">透皮</td>
+        <td>雌二醇透皮贴片</td>
+        <td>每日 0.025-0.2 mg</td>
+    </tr>
+    <tr>
+        <td>不同种类的雌二醇凝胶</td>
+        <td>
+            <p>用量因药物剂型和浓度而异</p>
+            <p>‡ 每日涂抹</p>
+        </td>
+    </tr>
+    <tr>
+        <td>注射</td>
+        <td>戊酸雌二醇或环戊丙酸雌二醇</td>
+        <td>
+            <p>每2周 5-30 mg 肌肉注射</p>
+            <p>每周 2-10 mg 肌肉注射</p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="4">抗雄激素</td>
+        <td rowspan="2"></td>
+        <td>螺内酯</td>
+        <td>每日 100-300 mg</td>
+    </tr>
+    <tr>
+        <td>醋酸环丙孕酮</td>
+        <td>
+            <p>Kuijpers et al (2021).</p>
+            <p>每日 10 mg **</p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+            <p>注射</p>
+        </td>
+        <td>GnRH激动剂</td>
+        <td>每月 3.75-7.50 mg皮下注射/肌肉注射</td>
+    </tr>
+    <tr>
+        <td>GnRH激动剂长效缓释制剂</td>
+        <td>
+            <p>每3月 11.25 mg 皮下注射/肌肉注射 或</p>
+            <p>每6月 22.5 mg 皮下注射/肌肉注射</p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="4"><b>基于雄激素的方案 （男性倾向）</b></td>
+        <td rowspan="4">睾酮</td>
+        <td rowspan="2">注射</td>
+        <td>
+            <p>庚酸睾酮/</p>
+            <p>环戊丙酸睾酮</p>
+        </td>
+        <td>
+            <p>每周 50-100 mg肌肉注射/皮下注射 或</p>
+            <p>每2周 100-200 mg肌肉注射</p>
+        </td>
+    </tr>
+    <tr>
+        <td>十一酸睾酮</td>
+        <td>
+            <p>每12周 1000 mg 肌肉注射 或</p>
+            <p>每10周 750 mg 肌肉注射</p>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">透皮</td>
+        <td>睾酮凝胶</td>
+        <td>每日 50-100 mg</td>
+    </tr>
+    <tr>
+        <td>睾酮透皮贴片</td>
+        <td>每日 2.5-7.5 mg</td>
+    </tr>
+</table>
+
+<p>* 剂量应根据激素水平动态调整，使性激素水平处于理想治疗范围内。激素干预方案并不能反映全球范围内所有药房提供的所有制剂。激素干预方案可能需要根据当地药房提供的药物进行调整。</p>
+
+<p>‡ 用量因药物剂型和浓度而异</p>
+
+<p>** Kuijpers et al (2021).</p>
+
+<h2 id="表格5-跨性别和多元性别人群接受性别肯定激素疗法的激素监测方案改编自内分泌学会指南">表格5 跨性别和多元性别人群接受性别肯定激素疗法的激素监测方案（改编自内分泌学会指南）</h2>
+
+<h3 id="跨性别男性或男性倾向跨性别包括多元性别非二元个体">跨性别男性或男性倾向跨性别（包括多元性别/非二元）个体</h3>
+
+<ol>
+  <li>在第一年中，约每3个月（或在剂量变化时）进行一次评估，并在之后的每年评估1至2次，以监测身体在睾酮干预下的变化。</li>
+  <li>每3个月（或在剂量变化时）测量血清总睾酮水平，直至达到目标水平：
+    <ol>
+      <li>注射睾酮者，血清总睾酮水平测量应在两次注射之间的中点进行。目标水平为400-700 ng/dL。作为替代，也可测量峰值和谷值以确保水平保持在男性参考范围内。</li>
+      <li>注射十一酸睾酮者，应在临注射前测量总睾酮水平。如果低于400 ng/dL，则需要调整给药间隔。</li>
+      <li>使用透皮睾酮制剂者，可以在每天使用并持续至少1周后（且至少在使用2小时后）进行测量。</li>
+    </ol>
+  </li>
+  <li>在基线和第一年中大约每3个月（或在剂量变化时）测量红细胞比容或血红蛋白浓度，并在之后的每年测量 1 至 2 次。</li>
+</ol>
+
+<h3 id="跨性别女性或女性倾向跨性别包括多元性别非二元个体">跨性别女性或女性倾向跨性别（包括多元性别/非二元）个体</h3>
+
+<ol>
+  <li>在第一年中，约每3个月（或在剂量变化时）进行一次评估，并在之后的每年评估1至2次，以监测身体在雌激素干预下的变化。
+    <ol>
+      <li>血清睾酮水平应低于 50 ng/dL。</li>
+      <li>血清雌二醇水平应在 100-200 pg/mL 范围内。</li>
+    </ol>
+  </li>
+  <li>服用螺内酯者，应监测血清电解质（特别是血钾）以及肾功能（特别是血清肌酐）。</li>
+  <li>根据 第十五章 初级保健 的建议进行初级保健筛查。</li>
+</ol>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[表格1 性别肯定激素干预作用下身体变化的预期时间过程（改编自Hembree et al., 2017）]]></summary></entry><entry><title type="html">附录D 成人和青少年激素和手术干预的标准</title><link href="http://localhost:4000/jekyll/2023-12-02-appendixD.html" rel="alternate" type="text/html" title="附录D 成人和青少年激素和手术干预的标准" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/appendixD</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-appendixD.html"><![CDATA[<p>SOC-8旨在灵活适应全球TGD群体多样的医疗保健需求。在具有适应性的同时，本指南提供了推动最佳医疗保健的标准，并为性别不一致人群的医疗服务提供了指导。与《照护指南》（SOC）先前的所有版本一样，本指南为性别肯定医学干预制订的标准是一套临床指南；个别医务人员和项目可在与TGD个体协商下修改。临床上不完全遵循SOC的原因可能包括：服务对象独特的解剖、社会或心理情况；经验丰富的医务人员对处理某些常见情况的方法不断进行的改进；特定的研究方案；在世界诸多地区存在的资源不足；或特定减害策略的需要。此类做法应被承认，向服务对象解释，并将其记录下来，以确保其所受照护的质量及所受的法律保护。此类记录对于积累新数据也有其价值，可以在将来被回顾性地检验从而使医疗保健过程和SOC本身得到改进。</p>
+
+<h2 id="成人标准">成人标准</h2>
+
+<h3 id="评估过程">评估过程</h3>
+
+<ul>
+  <li>医务人员对寻求性别肯定治疗的成年跨性别和多元性别人士进行评估时，应与跨性别健康领域的多学科专业人员建立联系，以便在需要时进行咨询和转诊[^37]。</li>
+  <li>如果获取性别肯定医疗需要书面文件或信函，则只需要一名有能力对跨性别和多元性别人士进行评估的医务人员提供评估信。</li>
+</ul>
+
+<h3 id="激素干预">激素干预</h3>
+
+<ul>
+  <li>性别不一致显著且持续；</li>
+  <li>在需要诊断才能获得医疗服务的地区，在开始性别肯定激素治疗之前确保其符合诊断标准；</li>
+  <li>具备同意接受特定性别肯定激素治疗的能力；</li>
+  <li>已经识别并排除了可能导致性别不一致的表现的其他原因；</li>
+  <li>已对任何可能对性别肯定的医疗结果产生负面影响的身心健康状况进行评估，并讨论了风险和收益；</li>
+  <li>了解性别肯定激素治疗对生殖功能的影响，且已探索生殖方面的选项。</li>
+</ul>
+
+<h3 id="手术干预">手术干预</h3>
+
+<ul>
+  <li>性别不一致显著且持续；</li>
+  <li>在需要诊断才能获得医疗服务的地区，在开始性别肯定手术治疗之前确保其符合诊断标准；</li>
+  <li>具备同意接受特定性别肯定手术干预的能力；</li>
+  <li>了解性别肯定手术干预对生殖功能的影响，且已探索生殖方面的选项；</li>
+  <li>已经识别并排除了可能导致性别不一致的表现的其他原因；</li>
+  <li>已对任何可能对性别肯定的医疗结果产生负面影响的身心健康状况进行评估，并讨论了风险和收益；</li>
+  <li>目前性别肯定激素治疗方案稳定（可能包括至少6个月的激素治疗，或更长，如果该手术需要更长时间以达到预期效果，除非个体不想进行激素治疗或合并禁忌症）。*</li>
+</ul>
+
+<h2 id="青少年标准">青少年标准</h2>
+
+<h3 id="评估过程-1">评估过程</h3>
+
+<ol>
+  <li>进行全面的生物–心理–社会评估，包括相关的医疗和心理健康专业人员参与；</li>
+  <li>让家长/监护人参与评估过程，除非无法参与或其参与被确定对青少年有害；</li>
+  <li>如果需要书面文件或信函来推荐青少年进行性别肯定医疗，只需要来自多学科团队中一名成员的一封评估信。这封信需要反映团队的评估和意见，涵盖医务人员和心理健康专业人士。</li>
+</ol>
+
+<h3 id="青春期阻滞剂">青春期阻滞剂</h3>
+
+<ol>
+  <li>多元性别特质/性别不一致显著且随着时间的推移而持续；</li>
+  <li>在需要诊断才能获得医疗保健的情况下符合性别不一致的诊断标准；</li>
+  <li>表现出必要的情感和认知成熟度，足以为治疗作出知情同意/许可（assent）；</li>
+  <li>可能会影响到诊断明确性、同意能力和实施性别肯定医疗的心理健康问题得到控制，以便能够提供最佳的性别肯定治疗。</li>
+  <li>已获悉生殖方面的影响、潜在的生育力丧失以及保存生育力的选项；</li>
+  <li>达到Tanner II期。</li>
+</ol>
+
+<h3 id="激素干预-1">激素干预</h3>
+
+<ol>
+  <li>多元性别特质/性别不一致显著且随着时间的推移而持续；</li>
+  <li>在需要诊断才能获得医疗保健的情况下符合性别不一致的诊断标准；</li>
+  <li>表现出必要的情感和认知成熟度，足以为治疗作出知情同意/许可（assent）；</li>
+  <li>可能会影响到诊断明确性、同意能力和实施性别肯定医疗的心理健康问题得到控制，以便能够提供最佳的性别肯定治疗。</li>
+  <li>已获悉生殖方面的影响、潜在的生育力丧失以及保存生育力的选项；</li>
+  <li>达到Tanner II期。</li>
+</ol>
+
+<h3 id="手术干预-1">手术干预</h3>
+
+<ol>
+  <li>多元性别特质/性别不一致显著且随着时间的推移而持续；</li>
+  <li>在需要诊断才能获得医疗保健的情况下符合性别不一致的诊断标准；</li>
+  <li>表现出必要的情感和认知成熟度，足以为治疗作出知情同意/许可（assent）；</li>
+  <li>可能会影响到诊断明确性、同意能力和实施性别肯定医疗的心理健康问题得到控制，以便能够提供最佳的性别肯定治疗。</li>
+  <li>已获悉生殖方面的影响、潜在的生育力丧失以及保存生育力的选项；</li>
+  <li>接受至少12个月或必要时更长时间的性别肯定激素治疗，从而能够在性别肯定手术（包括隆胸术、睾丸切除术、阴道成形术、子宫切除术、阴茎成形术、阴蒂释放术和作为性别肯定治疗一部分的面部手术）中获得期望的结果，除非不愿意进行激素治疗或存在医疗禁忌。</li>
+</ol>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[SOC-8旨在灵活适应全球TGD群体多样的医疗保健需求。在具有适应性的同时，本指南提供了推动最佳医疗保健的标准，并为性别不一致人群的医疗服务提供了指导。与《照护指南》（SOC）先前的所有版本一样，本指南为性别肯定医学干预制订的标准是一套临床指南；个别医务人员和项目可在与TGD个体协商下修改。临床上不完全遵循SOC的原因可能包括：服务对象独特的解剖、社会或心理情况；经验丰富的医务人员对处理某些常见情况的方法不断进行的改进；特定的研究方案；在世界诸多地区存在的资源不足；或特定减害策略的需要。此类做法应被承认，向服务对象解释，并将其记录下来，以确保其所受照护的质量及所受的法律保护。此类记录对于积累新数据也有其价值，可以在将来被回顾性地检验从而使医疗保健过程和SOC本身得到改进。]]></summary></entry><entry><title type="html">附录E 性别肯定手术干预</title><link href="http://localhost:4000/jekyll/2023-12-02-appendixE.html" rel="alternate" type="text/html" title="附录E 性别肯定手术干预" /><published>2023-12-02T00:00:00-05:00</published><updated>2023-12-02T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/appendixE</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-02-appendixE.html"><![CDATA[<p>随着有关性别不一致的诸多方面的认识不断深入，以及技术的发展使得能够开展更多的治疗，有必要认识到这个列表并不是详尽无遗的。特别是考虑到更新《照护指南》所需的时间通常较长，期间可能出现对认识和治疗模式的进一步演变。</p>
+
+<table>
+    <tr>
+        <th colspan="2"><b>面部手术</b></th>
+    </tr>
+    <tr>
+        <td>眉</td>
+        <td>
+            <ul>
+                <li>缩眉术（brow reduction）</li>
+                <li>隆眉术（brow augmentation）</li>
+                <li>提眉术（brow lifting）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>发际线前移和/或毛发移植</td>
+    </tr>
+    <tr>
+        <td>面部提升（facelift）/面中部提升（mid-face lift）（在改变了基础骨骼结构后）</td>
+    </tr>
+    <tr>
+        <td>面部提升/面中部提升（在改变了基础骨骼结构后）</td>
+        <td>
+            <ul>
+                <li>颈部提拉术（platysmaplasty）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>睑成形术</td>
+        <td>
+            <ul>
+                <li>脂肪填充</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>鼻成形术（+ / - 填充物）</td>
+    </tr>
+    <tr>
+        <td>颊</td>
+        <td>
+            <ul>
+                <li>假体植入</li>
+                <li>脂肪填充</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>嘴唇</td>
+        <td>
+            <ul>
+                <li>人中缩短</li>
+                <li>丰唇（包括自体和非自体）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>下颌（骨）</td>
+        <td>
+            <ul>
+                <li>缩小下颌角</li>
+                <li>隆下颌</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>下巴重塑</td>
+        <td>
+            <ul>
+                <li>截骨塑形（osteoplastic）</li>
+                <li>异体塑形（alloplastic）（基于植入物）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>喉软骨成形术</td>
+        <td>
+            <ul>
+                <li>声带手术（见嗓音章节）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>乳房/胸部手术</b></td>
+    </tr>
+    <tr>
+        <td>乳房切除术</td>
+        <td>
+            <ul>
+                <li>乳房切除术，并保留/再造乳头–乳晕，若对特定个体而言是医疗必要的</li>
+                <li>不保留/再造乳头–乳晕的乳房切除术，若对特定个体而言是医疗必要的</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>抽脂术</td>
+    </tr>
+    <tr>
+        <td>胸部再造（隆胸术）</td>
+        <td>
+            <ul>
+                <li>植入物和/或组织扩张器</li>
+                <li>自体组织（包括基于皮瓣和脂肪填充）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>生殖器手术</b></td>
+    </tr>
+    <tr>
+        <td>阴茎成形术（含/不含阴囊成形术）</td>
+        <td>
+            <ul>
+                <li>含/不含尿道延长术</li>
+                <li>带/不带假体（阴茎和/或睾丸）</li>
+                <li>含/不含阴道切除术</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>阴蒂释放术（含/不含阴囊成形术）</td>
+        <td>
+            <ul>
+                <li>含/不含尿道延长术</li>
+                <li>带/不带假体（阴茎和/或睾丸）</li>
+                <li>含/不含阴道切除术</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>阴道成形术（皮瓣翻转、腹膜、肠道）</td>
+        <td>
+            <ul>
+                <li>可能包括保留阴茎和/或睾丸*</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>外阴成形术</td>
+        <td>
+            <ul>
+                <li>可能包括称为“前部平坦”（flat front）的项目</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>性腺切除术</b></td>
+    </tr>
+    <tr>
+        <td>睾丸切除术</td>
+    </tr>
+    <tr>
+        <td>子宫切除术和/或输卵管卵巢切除术</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>身体塑形</b></td>
+    </tr>
+    <tr>
+        <td>抽脂术（脂肪抽吸术）</td>
+        <td rowspan="3">
+            <ul>
+                <li>胸、臀、大腿、小腿</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>脂肪填充术</td>
+    </tr>
+    <tr>
+        <td>假体植入</td>
+    </tr>
+    <tr>
+        <td>阴阜整形、阴阜缩小或者阴阜提升</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>补充程序</b></td>
+    </tr>
+    <tr>
+        <td>脱毛：从面部、身体和生殖器部位脱毛，用于性别肯定或作为术前准备过程的一部分（见关于脱毛的声明15.14）</td>
+        <td>
+            <ul>
+                <li>电针</li>
+                <li>激光</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>纹身（即乳头乳晕纹绣）</td>
+    </tr>
+    <tr>
+        <td>子宫移植</td>
+    </tr>
+    <tr>
+        <td>阴茎移植</td>
+    </tr>
+</table>
+
+<p>* 译者注：原文为May include retention of penis and/or testicle.</p>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[随着有关性别不一致的诸多方面的认识不断深入，以及技术的发展使得能够开展更多的治疗，有必要认识到这个列表并不是详尽无遗的。特别是考虑到更新《照护指南》所需的时间通常较长，期间可能出现对认识和治疗模式的进一步演变。]]></summary></entry><entry><title type="html">第九章 Eunuch</title><link href="http://localhost:4000/jekyll/2023-12-01-Chapter-09.html" rel="alternate" type="text/html" title="第九章 Eunuch" /><published>2023-12-01T00:00:00-05:00</published><updated>2023-12-01T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/Chapter-09</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-01-Chapter-09.html"><![CDATA[<p>在众多受益于性别肯定医疗服务的人群中，自我认同为Eunuch<sup id="fnref:23" role="doc-noteref"><a href="#fn:23" class="footnote" rel="footnote">1</a></sup>的人群是最隐蔽的群体之一。因为Eunuch群体的独特表现及其对医疗必要的性别肯定照护的需求，《照护指南》（SOC）的第八版涵盖了对Eunuch的讨论（参见 第二章 全球适用性 声明2.1，医疗必要性声明）。</p>
+
+<p>Eunuch个体是指出生时被指派为男性（AMAB），并希望消除男性身体特征、生殖器或生殖器功能的人，以及那些睾丸已经通过手术切除或通过化学或物理手段失去功能且认同自己为Eunuch的人。这种以认同为基础的定义仅适用于那些接受“Eunuch”一词的人，其他人群不包含在内，如接受过晚期前列腺癌治疗者，和拒绝接受“Eunuch”称呼者。此处关注的是自我认同为Eunuch并将其视为多元性别范畴的一部分的群体。</p>
+
+<p>与其他多元性别个体一样，Eunuch也可能寻求去势手术以更好地使其身体与其性别认同保持一致。因此，Eunuch个体也是需要医疗必要的性别肯定照护的性别不一致个体（Brett et al., 2007; Johnson et al., 2007; Roberts et al., 2008）。</p>
+
+<p>Eunuch个体以各种方式认同其性别身份。许多Eunuch个体将其视为自己独特的性别认同，而并不归属于其它性别或跨性别身份认同。本章重点关注认同为Eunuch的人的治疗和照护。医务人员将会遇到寻求激素干预和/或去势的Eunuch个体。这些个体也可能因为其身份认同而受益于Eunuch社群，无论其是否实际进行去势。</p>
+
+<p>Eunuch社群有着约4000年的历史，而在现代，大型的在线同伴互助社群中有着关于Eunuch认同群体最丰富的相关信息。这样的社群聚集在诸如1998年建立的Eunuch Archive（www.eunuch.org）等网站内。该网站的管理员也尽力在论坛中维持着医学和历史层面上的准确性，尽管肯定也存在着错误信息。根据网站所记录的数据，截至2022年1月，来自世界各地的注册会员超过130,000人，且浏览者中经常有超过90%只是“访客”而并非注册用户。该网站列出了超过23,000个主题和近220,000个帖子。例如，有两个主题介绍如何通过直接注射不同毒素到睾丸来自行去势，每个主题都包含大约2,500个帖子，且总阅读量都超过100万次。自2001年以来，Eunuch Archive社群已经在明尼阿波利斯举办了20次年度国际聚会，此外还有许多地区性聚会。虽然参与讨论的绝大多数人都对去势的话题很感兴趣，但是认真寻求或已经接受去势的会员仍是少数。许多前Eunuch Archive会员已经实现了其目标，不再参与社群活动。</p>
+
+<p>由于对历史上的Eunuch存在的误解和偏见，当代Eunuch群体的隐秘性，以及影响所有性少数群体的社会污名，很少有Eunuch公开出柜，许多人或是不会告诉任何人自己的身份认同，而只在在线社群中与有相似想法的人分享，或是只为一些家人和朋友所知（Wassersug &amp; Lieberman, 2010）。对Eunuch的刻板印象通常非常负面（Lieberman, 2018），Eunuch可能会遭受与其他受污名化群体相同的少数群体压力（Wassersug &amp; Lieberman, 2010）。因此，研究影响多元性别人群的少数群体压力时也应该涵盖Eunuch群体。</p>
+
+<p>目前的建议针对的是那些为自我认同为Eunuch的群体提供服务的专业人员（Johnson &amp; Wassersug, 2016; Vale et al., 2010），这一群体要求进行具有医疗必要性的性别肯定医疗。虽然Eunuch不是ICD或DSM中的特定诊断类别，但这是一个有用的概念，因为它表达了作为Eunuch的具体体验，同时也将其与更广泛的性别不一致体验联系起来。Eunuch个体在临床上的表现方式各不相同。这些人希望拥有与其Eunuch身份认同相符的身体，即一个男性生殖器官缺乏完整功能的身体。一些Eunuch个体对其男性生殖器官感到强烈不适，需要将其去除才能感到身体上的舒适（Johnson et al., 2007; Roberts et al., 2008）。另一些人对于拥有男性外生殖器并不介意，只要它们仅仅是在物理上存在，但并不会产生雄激素和男性第二性征（Brett et al., 2007） 。激素手段可抑制雄激素的产生，而睾丸切除术为不希望生殖器官发挥功能的人提供了一种永久的解决方案（Wibowo et al., 2016）。一些Eunuch个体希望通过睾丸切除术达到更低的睾酮水平，但许多人选择某种形式的激素替代治疗，以防止与性腺功能减退相关的不良反应。大多数选择激素疗法的人选择全量或部分剂量的睾酮替代治疗；少数人则使用雌激素。</p>
+
+<p>本章中的所有建议声明，都基于对证据的全面审查，对益处和危害的评估，服务提供者和服务对象的价值观和偏好，以及资源的消耗和可行性。在一些情况下，我们承认证据有限且/或服务可能无法获得，或并不理想。</p>
+
+<Containers>
+
+## 建议声明
+
+9.1 我们建议医务人员和其他使用《照护指南》（第八版）的专业人员应根据Eunuch个体的需求运用本指南中的建议。
+
+9.2 在不提供干预则Eunuch个体有较高受到伤害风险（原因如自行手术、由无资质人士进行手术或自行使用影响激素的药物）的情况下，我们建议医务人员为其提供药物干预和/或手术干预。
+
+9.3 我们建议医务人员在评估个体是否需要治疗时，需具备进行相应评估的能力。
+
+9.4 我们提议医务人员为Eunuch个体提供的医疗服务中涵盖性教育和咨询。
+
+</Containers>
+
+<h3 id="声明-91"><u>声明 9.1</u></h3>
+
+<p><strong>我们建议医务人员和其他使用《照护指南》（第八版）的专业人员应根据Eunuch个体的需求运用本指南中的建议。</strong></p>
+
+<p>Eunuch是经历性别不一致的多元性别人群的一部分，这些人也可能寻求性别肯定治疗。与其他TGD人群一样，Eunuch需要接受性别肯定照护，才能对其性别自我（gendered self）感到满意。SOC 的各个章节广泛涉及了各类人群多种多样的需求，Eunuch亦可被包含其中。这些人可能与某些非二元性别个体有共性，即社会过渡可能不是理想的选择，并且与社会过渡或二元性别下的过渡相比，激素治疗会发挥的作用可能有所不同（Wassersug &amp; Lieberman, 2010）。</p>
+
+<p>与其他多元性别个体一样，Eunuch可能在童年或青春期时就已经意识到了自己的身份。由于缺乏关于可能认同为Eunuch的儿童治疗方面的研究，我们不会提出具体的建议。</p>
+
+<p>Eunuch个体可能通过药物或手术治疗（激素抑制，睾丸切除术，以及在某些情况下，阴茎切除术）来实现身体，心理或性方面的变化（Wassersug &amp; Johnson, 2007）。对于所有医疗服务对象包括Eunuch和各类寻求去势的人而言，与HCP建立和维护基于信任和相互理解的关系非常重要。由于医学界普遍对Eunuch缺乏认识且许多寻求去势的个体担心自己不会被接受，许多人没有接受适当的初级保健和筛查检测（Jäggi, 2018）。提高医疗服务供应者在此方面的认识和教育水平将有助于满足这一需要，即有必要了解对多元性别的讨论将Eunuch涵盖在内的必要性（Deutsch, 2016a）。毫无疑问，Eunuch需要并应该获得与一般人群相同的初级保健服务。前列腺癌和乳腺癌等癌症的筛查是一个重要的探讨领域，因为对于这些受指派为男性但睾酮和雌激素水平不处于男性范围的人群而言，激素相关癌症的风险可能存在差异。由于缺乏关于Eunuch人群患激素相关癌症的流行率和发病率的研究，因此没有证据可以为应多久进行一次相关筛查（如前列腺检查、PSA检测、乳腺X线等）提供指导。</p>
+
+<p>关于青春期后去势带来的影响（如潜在的骨质疏松症、抑郁症或代谢综合征），大量关于前列腺癌症患者的药物或手术去势的文献提供了一些信息，但自愿去势的Eunuch对其结果的解读可能与因医疗原因去势的患者截然不同。对于患有前列腺癌的顺性别男性而言，药物或手术去势可能是心理上的痛苦体验；而对于Eunuch个体而言，同样的治疗可能是一种肯定和安慰。同样的，接受乳房切除术以获得身体上的舒适感的跨性别男性和为治疗乳腺癌进行手术的顺性别女性的感受也不同（Koçan &amp; Gürsoy, 2016; van de Grift et al., 2016）。Wassersug et al.（2021）对前列腺癌信息做了详细总结，论文中参考的文献涉及这一主题的大量研究。这些关于去势影响的信息应该被提供给寻求去势的人。</p>
+
+<p>在根据SOC-8进行评估后，适当情况下可以考虑来访者要求的医疗方案并开具处方。此类方案应量身定制，从而建立一套反映其特定需求和偏好的计划。使用的干预措施的数量和类型以及采取的顺序可能因人而异。这些选择与SOC-8的评估和手术章节一致。Eunuch可考虑的治疗选项包括：</p>
+
+<ul>
+  <li>激素抑制，以使得那些希望变得无性欲、无性别或中性化的Eunuch获得雄激素缺乏的效果；</li>
+  <li>睾丸切除术，以停止睾丸的睾酮分泌；</li>
+  <li>睾丸切除术，或带有阴茎切除术，使其身体与自我意象相匹配；</li>
+  <li>睾丸切除术后睾酮或雌激素的替代治疗。</li>
+</ul>
+
+<p>根据 第五章 成年群体的评估 中的声明5.6，寻求性腺切除的Eunuch个体在进行不可逆手术干预之前，应考虑至少6个月的激素疗法以适应TGD个体的性别目标（除非此人没有使用激素的临床指征）。</p>
+
+<h3 id="声明-92"><u>声明 9.2</u></h3>
+
+<p><strong>在不提供干预则Eunuch个体有较高受到伤害风险（原因如自行手术、由无资质人士进行手术或自行使用影响激素的药物）的情况下，我们建议医务人员为其提供药物干预和/或手术干预。</strong></p>
+
+<p>SOC-8推荐的评估流程应当同样适用于Eunuch（见 第五章 成年群体的评估）。Eunuch Archive 中有大量个人的帖子，发帖者在寻找愿意为其施行去势手术的医疗提供者时遇到了巨大的困难。有许多Eunuch个体自行进行了手术，或者是由没有医疗资质的人士施行了手术（Johnson &amp; Irwig, 2014）。同时，有临床报告记录了自行手术的Eunuch个体，还有来访者欺骗医疗保健人员以获得去势手术的记录（Hermann &amp; Thorstenson, 2015; Mukhopadhyay &amp; Chowdhury, 2009）。毫无疑问的是，当该群体的成员无从获得高质量的医疗时，便会采取可能会给自己带来巨大伤害的行为，这样的伤害包括出血和可能需要住院治疗的感染（Hay, 2021; Jackowich et al., 2014; Johnson &amp; Irwig, 2014）。由于存在自行手术、由无资质人士进行手术或未经监督使用影响激素的药物而造成的这些严重问题和伤害，医疗保健提供者应创造一个友好的环境，经过仔细评估后考虑各种治疗选项，以避免由于缺乏治疗和拒绝治疗而引起的问题。</p>
+
+<p>需要时，去势可以通过化学方式或外科手术方式来达成。对于一些人而言，化学去势可以成为在进行手术去势前的一种适当的尝试，以确定个体在性腺机能减退时的感觉如何（Vale et al., 2010）。如果停止使用药物，化学去势通常是可逆的（Wassersug et al., 2021）。降低睾酮水平的最常见的药物类型包括抗雄激素和雌激素。</p>
+
+<p>最常用的两种抗雄激素（即醋酸环丙孕酮和螺内酯）都是口服的。有时会为前列腺癌患者开处雌激素，以通过下丘脑和垂体的负反馈降低血清睾酮水平。雌激素和抗雄激素可能不能完全抑制睾酮水平以达到女性或去势后的水平，且口服雌激素会增加静脉血栓栓塞的风险。尽管由于成本更高而不常使用，但促性腺释放激素（GnRH）激动剂是抑制性激素产生和削弱生育能力非常有效的方法（Hembree et al., 2017）。在选择药物时，我们建议使用在多个跨性别群体中进行过研究的药物（如雌激素、醋酸环丙孕酮、GnRH激动剂），而不是那些没有或很少具有经同行评议的科学研究支持的药物（如比卡鲁胺、经直肠给药孕酮等）（Angus et al., 2021; Butler et al., 2017; Efstathiou et al., 2019; Tosun et al., 2019）。</p>
+
+<p>许多Eunuch在去势后会选择激素替代疗法，其原因是不希望完全抑制激素水平，且希望避免相关问题，如骨质疏松症风险的增加。性激素替代治疗的两个主要选择是睾酮和雌激素，可以采用全剂量或部分剂量进行替代。大多数人选择睾酮，因为这些人将自身表现为男性，且对女性化并无兴趣。少数人选择雌激素，其剂量足以预防骨质疏松症，但不足以产生大部分女性化表现。这些人可能自我认同为非二元性别、无性别或其它身份认同（Johnson et al., 2007; Johnson &amp; Wassersug, 2016）。</p>
+
+<p>虽然缺乏关于Eunuch激素替代治疗的研究，但对于激素治疗带来的影响，有接受前列腺癌治疗的顺性别男性中的研究结果可供参考。在一项随机对照试验中，1,694名患有局部晚期或转移性前列腺癌的男性接受了GnRH激动剂或经皮雌激素治疗（Langley et al., 2021）。治疗后，GnRH激动剂组出现了雄激素和雌激素缺乏的症状，而雌激素贴片组只出现了雄激素缺乏的症状。这两组的性副作用率（91%）都很高，且体重增加率相似。与接受GnRH激动剂组相比，经皮雌激素治疗的顺性别男性报告了更高的生活质量，更低的潮热发生率（35% vs. 86%），以及更高的乳房发育率（86% vs. 38%）。在新陈代谢方面，雌激素组表现出了有利变化，平均空腹血糖、空腹总胆固醇、收缩压和舒张压都降低了。相反的，接受GnRH激动剂的顺性别男性中则出现了相反的效果。基于这项研究，Eunuch可以考虑采用低剂量透皮雌激素治疗，以避免不良的雌激素缺乏效应，如潮热、疲劳、代谢影响和骨质流失（Hembree et al., 2017; Langley et al., 2021）。参见 第十二章 激素治疗。</p>
+
+<h3 id="声明-93"><u>声明 9.3</u></h3>
+
+<p><strong>我们建议医务人员在评估个体是否需要治疗时，需具备进行相应评估的能力。</strong></p>
+
+<p>Eunuch Archive 的讨论版中一个常见的话题是寻找理解其需求的从业者的困难。Eunuch及寻求去势手术者通常比其他性少数群体更为隐蔽（Wassersug &amp; Lieberman, 2010）。由于受到污名和害怕被医疗界拒绝，这些人可能不会愿意向医疗服务或心理健康服务提供者透露自己的身份认同和意愿。在某些环境中，医疗服务提供者可能不知道Eunuch的存在，甚至不知道曾治疗过自我认同为Eunuch的患者。</p>
+
+<p>SOC中的评估章节适用于Eunuch群体。和其他多元性别人群一样，寻求去势的人可以参与知情同意的过程。在此过程中，有资质的医疗服务提供者需要作出评估，以确保个体在医疗干预前有能力作出知情同意，并确保心理健康问题并不是这一意愿的原因。和其他性少数群体一样，为Eunuch提供服务时需要理解这是一个多样化的人群，每个人作为Eunuch的体验都是独特的（Johnson et al., 2007）。若从业人员具备接纳的态度、采用开放式的提问方式、拥有灵活的期望，且避免做出评判，同时有专业的能力和知识，寻求医疗服务的人会因此受益。</p>
+
+<p>为了提供适当的治疗，医疗服务提供者须为身份认同为Eunuch的人群创造包容的环境，从而建立信任和尊重。对于身份认同为Eunuch的个体，理想的接诊信息表应询问其受指派性别和性别认同，并提供多种性别选择，包括“Eunuch”和“其他”。个体可能同时认同多种选择，因此应具有多选功能。</p>
+
+<p>医务人员可能参与性别肯定医疗的评估、心理治疗（如果需要）、准备工作和后续随访，也可以为伴侣和家人提供支持。若希望得到有资质的心理健康服务提供者的支持，身份认同为Eunuch的个体将受益于满足 第四章 教育 中所规定的经验和标准的治疗师。</p>
+
+<p>虽然一些寻求或考虑去势的个体因为需要情感支持或在决策方面需要帮助而寻求心理咨询或治疗，但许多人的就诊是为了接受评估，以为特定的医疗干预做准备（Vale et al., 2010）。</p>
+
+<h3 id="声明-94"><u>声明 9.4</u></h3>
+
+<p><strong>我们提议医务人员为Eunuch个体提供的医疗服务中涵盖性教育和咨询。</strong></p>
+
+<p>多项研究为我们了解当代认同为Eunuch的人群做出了贡献，其中探索了这一人群的人口统计学特征和性方面的特质（Handy et al., 2015; Vale et al., 2013; Wibowo et al., 2012, 2016）。医务人员应假设Eunuch有性欲，并能进行性行为、获得性快感、拥有性关系，除非这些人自我报告对此加以否定（Wibowo et al., 2021）。研究表明，在Eunuch群体之中，在欲望程度、偏爱的身体或性接触方式以及偏好的关系等方面因人而异（Brett et al., 2007; Johnson et al., 2007; Roberts et al., 2008）。一些人积极享受性生活，无论是否有浪漫关系，而另一些人则认同自己为无性恋或无浪漫情感，并因通过手术或化学去势丧失性欲而感到宽慰（Brett et al., 2007）。每个人都各不相同，一个人的外生殖器状态并不能决定其会怎样在性或浪漫关系方面受到吸引（Walton et al., 2016; Yule et al., 2015）。</p>
+
+<p>无论一个人接受何种类型的化学抑制或手术治疗，都仍可能能够获得性愉悦和进行性活动。与流行观念相反，Eunuch并不一定无性欲或对性的兴趣有限（Aucoin &amp; Wassersug, 2006）。对所有进行可能涉及体液交换的性行为的人而言，性安全教育都是必要的。参见 第十七章 性健康 方面的信息，了解有关性教育和不同性别与性倾向人士的安全性行为选项。此外，在考虑可能影响未来生育可能性的医疗干预时，应当探讨生育力保存的措施。更多有关注意事项参见 第十六章 生殖健康。</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:23" role="doc-endnote">
+      <p>译者注：Eunuch指的是出生时被指派为男性（AMAB），并希望消除男性身体特征、生殖器或生殖器功能的人，以及那些睾丸已经通过手术切除或通过化学或物理手段失去功能且认同自己为Eunuch的人。其原有中文翻译并不能表现出这种性别认同的概念，且存在一定污名化。我们在向社群征求意见后并未获得可用翻译方式，故在本指南译文中采用英文原文Eunuch表示这一概念。 <a href="#fnref:23" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[在众多受益于性别肯定医疗服务的人群中，自我认同为Eunuch1的人群是最隐蔽的群体之一。因为Eunuch群体的独特表现及其对医疗必要的性别肯定照护的需求，《照护指南》（SOC）的第八版涵盖了对Eunuch的讨论（参见 第二章 全球适用性 声明2.1，医疗必要性声明）。 译者注：Eunuch指的是出生时被指派为男性（AMAB），并希望消除男性身体特征、生殖器或生殖器功能的人，以及那些睾丸已经通过手术切除或通过化学或物理手段失去功能且认同自己为Eunuch的人。其原有中文翻译并不能表现出这种性别认同的概念，且存在一定污名化。我们在向社群征求意见后并未获得可用翻译方式，故在本指南译文中采用英文原文Eunuch表示这一概念。 &#8617;]]></summary></entry><entry><title type="html">第十章 间性人</title><link href="http://localhost:4000/jekyll/2023-12-01-Chapter-10.html" rel="alternate" type="text/html" title="第十章 间性人" /><published>2023-12-01T00:00:00-05:00</published><updated>2023-12-01T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/Chapter-10</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-01-Chapter-10.html"><![CDATA[<p>《照护指南》第七版中有一章讨论如何将指南适用于生理上存在间性状态并具有性别烦躁和/或寻求改变性别的群体。间性人群体在现象学表现、生活轨迹、流行率、成因和污名风险方面与没有间性状态的跨性别者存在差异。本章在此基础上进行了更新，并增加了针对间性群体的医疗必要的临床方法的建议（参见 第二章 全球适用性 声明2.1，医疗必要性声明），其原因是具有非典型的性别分化特征的个体自新生儿阶段开始就会面临临床上的问题，包括：可能从早期开始就会需要家庭教育和支持，可能需要进行性别指派的决策和后续的临床性别管理（其中——特别是涉及生殖器手术的部分——存在争议），且个体出现性别烦躁和发生性别改变的几率在后期存在显著增加（Sandberg &amp; Gardner, 2022）。</p>
+
+<h2 id="用语">用语</h2>
+
+<p>“间性人”（intersex，源自拉丁语，字面意思为“性别之间”）是一个基于哺乳动物（包括人类）生殖过程的二元性别系统的术语。在医学中，该术语通常用于指代具有非典型的先天性生殖道变异的个体。这些变异，通常被称为“生殖器模糊”，使得无法简单地将个体身体上的性别识别为男性或女性，且若有足够医疗资源，可能需要进行全面的身体、内分泌和遗传学检查，然后才能“指派”性别。近年来，“间性人”也成为了一些生理上存在间性状态的人士和一部分有非二元性别认同的非间性人士所采用的身份标签（Tamar-Mattis et al., 2018）。</p>
+
+<p>在2005年的一次国际共识会议上，间性状态被纳入到一个新的标准医学术语“性别发育异常”（Disorders of Sex Development, DSD）下，该术语定义为“染色体、性腺或解剖性别发育异常的先天性情况”（Hughes et al., 2006）。DSD包括的范围远比传统上的间性状态广泛，而包括更为常见的特纳综合征（Turner syndrome）和克氏综合征（Klinefelter syndrome）等情况。此外，许多受影响的个体不喜欢“异常”这个术语，认为它本质上是有污名化含义的（Carpenter, 2018; Griffiths, 2018; Johnson et al., 2017; Lin-Su, et al., 2015; Lundberg et al., 2018; Tiryaki et al., 2018）。医务人员对这一术语的接受程度也不同（Miller et al., 2018）。另一种广泛使用的替代用语是“性别发育差异”（Differences in Sex Development），缩写同样为DSD。这避免了病理化的含义，但从语义上来说并不完全准确，因为该术语不能区分男性和女性之间的典型的生殖器差异和非典型的性分化。近期还有其它一些提出避免明显污名化含义的术语的尝试，例如“影响生殖发育的情况”（Conditions Affecting Reproductive Development, CARD; Delimata et al., 2018）或“性别特征的变异”（Variations of/in Sex Characteristics, VSC; Crocetti et al., 2021），但这些术语也并不针对间性状态。</p>
+
+<p>鉴于上述定义上的问题，本章中我们使用“间性状态”（或“间性的”）一词时仅指先天的身体表现。这样做既可以增强描述上的清晰度，也可以保持与历史用法的连续性。这一选择并不意味着我们有意参与有关性与性别的概念（无论是生理意义还是社会意义的）属于二元系统亦或是连续体的讨论，因为这可能会因考虑到语境和实用性而有所不同（Meyer-Bahlburg, 2019）。在21世纪的社会中，性与性别的概念仍在不断演变。</p>
+
+<h2 id="流行率">流行率</h2>
+
+<p>间性状态出现的概率取决于所使用的定义。明显的非典型生殖器状况（“生殖器模糊”）出现的概率约为1:2000～1:4500（Hughes et al., 2007）。对DSD最广义的定义估计流行率高达1.7%（Blackless et al., 2000）。尽管这些数据总体上较高，与上文定义的间性状态相关的个体状况往往要罕见得多。例如，雄激素不敏感综合征（AIS）在大约10万个46-XY新生儿中仅出现1例（Mendoza &amp; Motos, 2013），而经典型先天性肾上腺皮质增生症（CAH）在大约15,000个46-XX新生儿中出现1例（Therrell, 2001）。每种综合征的流行率数据在不同国家和种族群体之间可能存在巨大差异。</p>
+
+<h2 id="表现">表现</h2>
+
+<p>具有间性特征的个体的表现因人而异。产前超声检查可以识别间性特征，但大多数情况下间性特征仍是在出生时进行生殖器检查时发现的。在资源丰富的情况下，这些新生儿将在出生后的前几周接受大量的医疗诊断程序。基于具体的医疗诊断、身体和激素方面的检查结果，以及长期随访研究的性别结果信息，医务团队通常与家长进行共同决策将其指派为男性或女性。有些情况下，具有间性特征的人可能直到青春期时才引起专家的注意，如作为女性成长的青少年在评估原发性闭经时。</p>
+
+<p>协助既有间性状态又有性别不确定性的个体的医务人员需要意识到，这些个体成长过程中的医疗背景因素通常与非间性的跨性别者有很大的区别。引发间性状态的综合征多种多样，而每种综合征的严重程度也各不相同，因此激素和手术治疗方法也会相应有所不同。</p>
+
+<p>一些间性状态的生理表现可能需要早期的紧急干预，例如尿道阻塞或CAH的肾上腺危象，但大多数间性个体的生理变异既不会（在早年）影响功能，也不会危及其安全。然而，非典型的生殖器外观带来的心理社会污名通常会促使个体在达到拥有同意权的年龄之前进行生殖器手术（通常被称为“矫正”或“正常化”），这种方法备受争议，因为它与支持个人自主权的伦理原则相冲突（Carpenter, 2021; Kon, 2015; National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, 1979）。此外，对于没有迫在眉睫的安全问题的间性表现，部分个体长大后可能会选择一系列医疗干预措施来改善功能和外观。具体的医疗方法远远超出了本章的范围，感兴趣的读者应查阅相应的内分泌和外科文献。</p>
+
+<p>某些间性状态在长期性别认同结果上存在更大的多样性（Dessens et al., 2005）。例如，被指派为女性的46-XX CAH患者中，非二元性别认同的出现率可能高达5-10%（Furtado et al., 2012）。性别认同的重要生理因素是为间性人士提供心理社会、药物和手术干预时必须要考虑的关键因素。</p>
+
+<p>有足够的证据表明，间性人士及其家庭可能会遭受心理社会压力（de Vries et al., 2019; Rosenwohl-Mack et al., 2020; Wolfe-Christensen et al., 2017），部分原因与心理社会污名化有关（Meyer-Bahlburg, Khuri et al., 2017; Meyer-Bahlburg, Reyes-Portillo et al., 2017; Meyer-Bahlburg et al., 2018）。</p>
+
+<h2 id="精神病学术语中的间性状态">精神病学术语中的间性状态</h2>
+
+<p>自1980年起，美国精神病学命名法开始承认符合性别认同变异标准的间性人士；但是，在随后的DSM版本中诊断分类发生了变化。例如，在DSM-III（American Psychiatric Association, 1980）中，轴I中的“易性症”类别不适用于成年间性群体，但这样的儿童被分类为“童年期性别认同障碍”，而间性状态在轴III中得到具体说明。在DSM-IV-TR（American Psychiatric Association, 2000）中，无论年龄如何，间性人都被排除在了轴I的“性别认同障碍”类别之外，而与其它情况一起归入“非特指的性别认同障碍”类别。在废除了多轴系统的DSM-5（American Psychiatric Association, 2013）中，“性别认同障碍”被重新定义为“性别烦躁”，无论年龄和间性特征如何，但间性人会被额外特定说明为“与性发育异常有关的性别烦躁”（Zucker et al., 2013）。刚刚发布的DSM-5的文本修订版（American Psychiatric Association, 2022）保留了“性别烦躁”这一术语。然而，值得注意的是，国际疾病分类的最新修订版（ICD-11; World Health Organization, 2019a）将“性别不一致”从“精神、行为或神经发育障碍”章节移至新的“性健康相关情况”章节。</p>
+
+<p>本章中的所有建议声明，都基于对证据的全面审查，对益处和危害的评估，服务提供者和服务对象的价值观和偏好，以及资源的消耗和可行性。在一些情况下，我们承认证据有限且/或服务可能无法获得，或并不理想。</p>
+
+<Containers>
+
+## 建议声明
+
+10.1 我们提议由熟悉性别认同和表达的多样性以及间性方面知识的多学科团队为间性人士及其家庭提供照护。
+
+10.2 我们建议为提供青少年和成人跨性别照护的医务人员寻求与其专业相关的间性人照护的培训和教育。
+
+10.3 我们提议医务人员从确诊后就向具有间性特征的儿童的家庭提供关于其特定间性状态及其心理社会影响的教育和咨询。
+
+10.4 我们提议医疗服务提供者和家长双方与具有间性特征的儿童/个体进行持续的、符合其发展阶段的沟通，内容涉及其间性状况及其心理社会影响。
+
+10.5 我们提议医务人员和家长在整个生命过程中支持间性儿童/个体探索其性别认同。
+
+10.6 我们提议医务人员与医疗和非医疗人士/组织合作，增进具有间性特征的个体的幸福感，同时减少可能产生的污名化现象。
+
+10.7 我们提议医务人员根据需要将具有间性特征的儿童/个体及其家庭转介至心理健康服务、同伴支持和其它心理社会支持服务。
+
+10.8 我们建议医务人员根据个体的性别认同、年龄和具体医疗情况，就青春期阻滞和/或激素治疗方案向具有间性特征的个体及其家庭提供相关咨询。
+
+10.9 我们提议医务人员为间性儿童（当认识功能发展程度足够）及其家长提供咨询，以推迟性别肯定的生殖器和/或性腺手术，从而使得儿童有更强的自主权和参与基于知情同意的决策的能力。
+
+10.10 我们提议只由对间性生殖器或性腺手术经验丰富的外科医生对间性人士进行手术。
+
+10.11 我们建议为有生育能力的间性个体开具或转介至激素治疗/手术的医务人员就以下方面为个体及其家人提供咨询，包括：
+
+10.11.a 激素治疗/手术对未来生育力的已知影响；
+
+10.11.b 缺乏充分研究且可逆程度未知的治疗的潜在影响；
+
+10.11.c 生育力保存选项；
+
+10.11.d 不育的心理社会影响。
+
+10.12 我们提议照护间性和先天不育个体的医务人员从早期开始逐渐向个体及其家人介绍其它养育子女的选项。
+
+</Containers>
+
+<h3 id="声明-101"><u>声明 10.1</u></h3>
+
+<p><strong>我们提议由熟悉性别认同和表达的多样性以及间性方面知识的多学科团队为间性人士及其家庭提供照护。</strong></p>
+
+<p>间性为DSD的一个子类，是一种复杂的先天性情况，需要来自不同医学和行为学科的专家参与处理（Hughes et al., 2006）。专家团队的组成和功能可以根据团队位置、当地资源、诊断情况和间性个体及其家庭的需求而有所不同。理想的团队涵盖了亚专业包括内分泌科、外科和/或泌尿科、心理科/精神科、妇科以及遗传学的儿科医生，在有条件的情况下还应包括接受过社会工作、护理学和医学伦理培训的人员（Lee et al., 2006）。团队结构可以参照：</p>
+
+<ol>
+  <li>传统的多学科医疗模式（multidisciplinary medical model）；</li>
+  <li>跨专业模式（interprofessional model）；</li>
+  <li>跨学科模式（transdisciplinary model）。</li>
+</ol>
+
+<p>虽然这些结构看起来很相似，但实际上它们非常不同，并且可以对团队的运作产生不同的影响（Sandberg &amp; Mazur, 2014）。2006年的共识声明并未就哪个模式是最好的作出决定——多学科、跨专业或跨学科——而只是指出这些模式“意味着不同程度的协作和专业自主”（Lee, Nordenström et al., 2016）。自2006年共识声明发表以来，欧洲和美国都成立了这样的团队。在美国的团队列表可以在DSD-Translational Network（DSD-TRN）网站上找到。在许多欧洲国家也有这样的团队（Thyen et al., 2018）。虽然如Sandberg &amp; Mazur（2014）所指出，建立团队存在阻碍，但多学科团队有助于解决许多会对被诊断为间性的个体及其家庭的照护造成负面影响的问题，如服务的分散性，专业人员之间缺乏沟通的状况，以及因而导致个体接受到的解释呈现碎片化从而造成更多困惑的状况。</p>
+
+<p>大多数先天具有间性状态的个体会在出生时或出生后不久被识别出来，而另一些人则会在晚些时候被识别，例如在青春期（见Brain et al., 2010，附录C 表1）。当这种情况发生时，团队方法将根据诊断和年龄进行调整。在某些情况下，团队的组成可以根据需要扩大到包括其他专家。</p>
+
+<p>据报道，由多学科团队接诊而不是只接受单一服务提供者的服务的儿童更有可能获得几乎全方位的服务（Crerand et al., 2019）。接受这种照护的家长对心理社会服务和团队方法予以了正面的评价，且报告称此类家长相比没有与这种团队互动的家长能够获得更多的信息（Clerand et al., 2019）。</p>
+
+<h3 id="声明-102"><u>声明 10.2</u></h3>
+
+<p><strong>我们建议为提供青少年和成人跨性别照护的医务人员寻求与其专业相关的间性人照护的培训和教育。</strong></p>
+
+<p>对实习医生的访谈结果（Liang et al., 2017; Zelin et al., 2018）以及程序性自检和调查（DeVita et al., 2018; Khalili et al., 2015）认为，医学培训项目没有向从业人员为性别烦躁和间性的人士提供称职的照护提供充分的准备。参加间性人相关活动的专业人士和利益相关者指出，持续的教育和合作是重要的职业发展需求（Bertalan et al., 2018; Mazur et al., 2007）。这对于为成人提供照护的从业者而言尤其如此：这些医务人员在帮助那些从儿科照护过渡到成人照护的个体时可能缺乏临床指导或支持（Crouch &amp; Creighton, 2014）。</p>
+
+<p>然而，除了一份初级保健指南（National LGBTQIA + Health Education Center, 2020）外，很少有针对从业人员管理此类问题的能力进行培训或评估的指南，而可用的指南主要针对心理健康专业人士（Hollenbach et al., 2014）。</p>
+
+<p>对于想要提高自身能力的医务人员而言，在没有正规教育或实证指南的情况下，向专家咨询可能是一种可行的选择。鉴于针对间性的治疗广泛采纳了多学科专家团队（Pasterski et al., 2010），在此类团队中工作的人员有机会向其他医务人员征询意见，或为其他可能没有接受过充分培训的医疗保健人员提供教育（Hughes et al., 2006）。因此，建议将对其他专业人员的培训作为团队建设的核心组成部分（Auchus et al., 2010），且多学科团队的成员应接受团队协作（包括参与跨专业学习的策略）方面的培训（Bisbey, et al., 2019; Interprofessional Education Collaborative Expert Panel, 2011）。</p>
+
+<h3 id="声明-103"><u>声明 10.3</u></h3>
+
+<p><strong>我们提议医务人员从确诊后就向具有间性特征的儿童的家庭提供关于其特定间性状态及其心理社会影响的教育和咨询。</strong></p>
+
+<p>应在诊断时就开始通过教育和咨询向间性儿童的家人充分告知医疗信息，这一过程应符合各项国际共识指南的指导。间性新生儿（特别是在有明显的生殖器模糊的情况下）所面临的最具挑战性的问题之一是性别指派；从家长的角度来看，也就是养育孩子时采用的性别（Fisher, Ristori et al., 2016）。考虑到这对大多数家长而言会造成很大压力，通常建议在全面的诊断评估允许的情况下，尽快做出关于性别的决定（Houk &amp; Lee, 2010）。然而，性别决定的标准随着时间的推移而有所改变。在20世纪下半叶，决策偏向于指派为女性，因为女性化的生殖器手术被认为比男性化的手术操作更容易且副作用更少。然而，在某些间性条件如46-XY 5α-RD-2缺陷下，女性性别指派与后期性别烦躁和性别改变的高发生率相关联（Yang et al., 2010）。因此，自2005年国际间性人管理共识会议以来，性别指派考虑了在多种多样的间性状态下逐渐积累的长期性别结果数据。</p>
+
+<p>告知医疗信息的做法旨在使相关人员在更加充分知情的情况下做出医疗决策。此外，围绕间性的羞耻和污名与较差的心理社会结果相关联，而开放和主动的医疗信息交流可作为降低此类风险的策略（de Vries et al., 2019）。根据个人的诊断和发展阶段，间性情况可能会对个人及其医疗保健需求产生不同的影响。因此，与间性状态健康有关的沟通必须是持续的，并针对个人量身制定。关于间性人照护决策的研究表明，家人受到临床团队沟通方式的影响（Timmermans et al., 2018）。我们鼓励服务提供者遵照SOC在教育和咨询中采用正常化、肯定性的用语和态度。例如，将生殖器的非典型状况描述为“变异”或“差异”比“出生缺陷”或“畸形”更具有肯定性。</p>
+
+<p>所有参与特定个体照护的医务人员都可以向家人提供必要的教育和信息。在多学科团队中，教育的类型可能与其专业领域相一致，例如，外科医生向个体提供解剖学教育，内分泌科医生讲解激素功能发育的细节，而心理健康专业人士描述性与性别认同的光谱。其他医务人员可能需要提供综合性的教育。家人应获取与个体的特定间性特征相关的信息（如果已知）。所有医务人员都可以利用支持团队提供的以患者为中心的资源来补充这些信息。也有间性人士曾被聘请为团队成员，利用其亲身经历提供教育。</p>
+
+<p>共识指南还建议向家庭提供持续的同伴支持和专业的心理社会支持（Hughes et al., 2006），其中咨询重点可能包括问题解决和预先指导（Hughes et al., 2006）。例如，家庭可能会针对为其他人（如兄弟姐妹、延伸家庭和照顾者）说明个体的特定间性状况寻求指导。其他家人可能需要支持或心理健康照护来管理间性个体治疗的压力。青少年可以从如何向同伴介绍其状况以及如何处理恋爱和性方面的指导中获益。咨询还可能涉及指导各个年龄段的个体及其家人如何在药物或手术治疗方面做出共同决策。服务提供者可以采用决策辅助工具支持这一过程（Sandberg et al., 2019; Weidler et al., 2019）。</p>
+
+<h3 id="声明-104"><u>声明 10.4</u></h3>
+
+<p><strong>我们提议医疗服务提供者和家长双方与具有间性特征的儿童/个体进行持续的、符合其发展阶段的沟通，内容涉及其间性状况及其心理社会影响。</strong></p>
+
+<p>医疗信息交流是一个多向的过程，包括信息从服务提供者传递给服务对象，从家长传递给服务对象，以及从服务对象传递给服务提供者（Weidler &amp; Peterson, 2019）。在诊断和手术决策问题上，人们往往非常重视向家长传达信息，而具有DSD的青少年有过与医疗保健提供者在沟通上存在障碍的报告，且可能并不总向家长寻求支持（Callens et al., 2021）。为了让间性个体在治疗中充分参与和实现自主，服务提供者和家长都必须与儿童/个体进行持续沟通。</p>
+
+<p>医疗提供者必须尽快为各方之间持续的、开放的沟通设定期望。由于家长可能会由于与DSD相关的不确定性而经历痛苦，并可能寻求快速解决方案，这一点尤为重要（Crissman et al., 2011; Roberts et al., 2020）。目前已经开发了若干共同决策模型以及相关决策工具，以支持医务人员和家庭/个人之间的持续沟通（Karkazis et al., 2010; Sandberg et al., 2019; Siminoff &amp; Sandberg, 2015; Weidler et al., 2019）。除了为对话设定期望外，提供者还可以设定沟通的基调。提供者可以帮助家长和个人容忍诊断的不确定性，同时提供关于解剖变异的教育，展示对性与性别认同的开放态度，并欢迎孩子/个人的问题。随着年龄的增长，儿童/个人可能会对性、月经、生育、激素治疗（肾上腺激素/性激素）、骨骼健康和癌症风险等问题有疑问或需要与年龄相适应的信息。</p>
+
+<p>家长在教育孩子方面也发挥着关键作用，可能是第一批向孩子告知医疗信息的人（Callens et al., 2021）。作为围绕沟通的期望设定的一部分，提供者应该让家长准备好向其孩子和支持系统的成员介绍对间性人的诊断和治疗史。一些家长报告称很难确定应向别人以及自己的孩子透露多少信息（Crissman et al., 2011; Danon &amp; Kramer, 2017）。家长若采取尽量减少对孩子诊断的介绍/讨论的方法，在抚养间性儿童时所经历的压力会增加（Crissman et al., 2011）。压力水平也因发展阶段而异，青少年的家长报告的压力率更高（Hullman et al., 2011）。因此，医务人员应该帮助家长制定针对孩子发展阶段的策略，以应对其心理社会或文化疑虑以及价值取向（Danon &amp; Kramer, 2017; Weidler &amp; Peterson, 2019）。最后，对性与性别差异的更广泛研究发现——与羞耻/污名和负面健康结果之间的关联相反——支持性的家庭行为（包括与孩子谈论其身份并让其与同伴建立联系）预示着个人更高的自尊和更好的健康结果（Ryan et al., 2010）。</p>
+
+<h3 id="声明-105"><u>声明 10.5</u></h3>
+
+<p><strong>我们提议医务人员和家长在整个生命过程中支持间性儿童/个体探索其性别认同。</strong></p>
+
+<p>心理、社会、文化建构与生理因素交织在一起，形成了一个人的性别认同。间性群体整体上在童年时期表现性别非常规行为、性别存疑和跨性别愿望的比例更高，其部分取决于胎儿大脑发生分化的产前性激素环境与出生时受指派性别之间的差异（Callens etal., 2016; Hines et al., 2015; Meyer-Bahlburg et al., 2016; Pasterski et al., 2015）。性别认同问题在不同间性群体身上的发生率不同（de Vries et al., 2007）。最近的研究记录中，一些人形成了非二元认同，至少私下是这样（Kreukels et al., 2018）。虽然大多数间性人士可能不会经历性别烦躁或希望性别过渡，但可能仍然对自己的性别有不确定感和未得到解答的问题（Kreukels et al., 2018）。关于性别身份的问题可能来自以下因素：生殖器外观，青春期发育，以及针对其医疗状况的诊断术语、性腺状态、性染色体状态和生殖器手术史等事项的知识。因此，应使服务对象有机会与医务人员讨论这些问题和感受，以开放的方式讨论多元性别特质，并采用不那么二元的方式认识性别。此外，还建议医务人员对家长在支持孩子探索性别方面予以指导。</p>
+
+<p>此外，这种支持不应局限于儿童时期。相反，每个人都应该有机会在一生中探索自己的性别认同，因为不同的阶段可能会出现关于性别的新问题（如青春期/青少年期和育龄期）。一般来说，孩子们在成熟和发展的过程中，会在一些重要的时刻对自己的性别身份产生疑问。当面临额外的压力源时，例如生殖器模糊、生殖器检查和涉及生殖器的过程，以及当文化的偏见与影响相互交织时，间性人士可能需要得到支持，并应鼓励其在需要时寻求专业援助和指导。此外，医务人员应该定期询问，以确定其间性服务对象是否需要这种支持。当人们经历性别不一致时，可以考虑性别肯定干预。此类干预措施中须采用的项目如其它章节所述。</p>
+
+<h3 id="声明-106"><u>声明 10.6</u></h3>
+
+<p><strong>我们提议医务人员与医疗和非医疗人士/组织合作，增进具有间性特征的个体的幸福感，同时减少可能产生的污名化现象。</strong></p>
+
+<p>据报道，间性个体会经历污名、羞耻感、内疚、愤怒、悲伤和抑郁（Carroll et al., 2020; Joseph et al., 2017; Schützmann et al., 2009）。在这一人群中观察到了高于普通人群的心理问题水平（Liao &amp; Simmonds, 2014; de Vries et al., 2019）。此外，临床团队也不能忽视家长对被污名化的恐惧和对孩子的诊断的适应能力。家长可以从支持性咨询中受益，此类咨询能够协助应对临床决策（Fleming et al., 2017; Rolston et al., 2015; Timmermans et al., 2019）以及了解临床决策在家长对孩子的看法方面的影响（Crissman et al., 2011; Fedele et al., 2010）。</p>
+
+<p>Thyen et al.（2005）发现，反复的生殖器检查似乎与羞耻、恐惧和痛苦相关联，并可能增加日后患创伤后应激障碍（PTSD）的可能性（Alexander et al., 1997; Money &amp; Lamacz, 1987）。反复接受生殖器检查，对医疗干预的恐惧，以及家长和医生对间性状态的保密，最终会破坏间性人士的自强和自尊（Meyer-Bahlburg et al., 2018; Thyen et al., 2005; Tishelman et al., 2017; van de Grift, Cohen-Kettenis et al., 2018）。有关如何进行生殖器检查以尽量减少不良心理副作用的建议，请参阅Tishelman et al.（2017）。</p>
+
+<p>间性社群中存在活跃的运动，致力于削弱污名化，并恢复间性人士的人权和尊严，而不将其视为医疗异常和猎奇对象（Yogyakarta Principles, 2007, 2017）。Chase（2003）总结了间性人权利运动的主要原因，其中概述到，无知以及感到必须将自身状态视作需要隐藏的秘密会导致污名和情感创伤。公众对间性状况的认识非常有限，并且间性人的形象和历史信息仍然作为“自然界的异常现象”被呈现。因此，我们建议医务人员积极向同行、间性个体及其家庭和社群普及相关知识，提高公众认识，增加对间性状态的了解。提高社会对间性状态的认识和知识有助于减少歧视和污名化。如果需要，工具和教育/信息材料也可以帮助间性个体对外说明其状况（Ernst et al., 2016）。</p>
+
+<p>医务人员应能够识别并解决其服务对象承受的污名化（Meyer-Bahlburg et al., 2018），并应该鼓励不同年龄的间性人士通过支持小组进行联系。有必要开发具体的技术/方法，以帮助服务对象应对与间性状态有关的污名。</p>
+
+<h3 id="声明-107"><u>声明 10.7</u></h3>
+
+<p><strong>我们提议医务人员根据需要将具有间性特征的儿童/个体及其家庭转介至心理健康服务、同伴支持和其它心理社会支持服务。</strong></p>
+
+<p>对于几乎所有的家长而言，间性孩子的出生都是完全出乎意料、令人震惊的。当被问到“你的孩子是男孩还是女孩?”时，这些家长无法立即回答这一无处不在的问题。同时，家长对孩子的状况缺乏知识和理解，感到孩子的未来充满不确定性，而且社会上还普遍存在对间性人士的污名。所有这些因素都很可能造成痛苦，有时达到PTSD的水平，并可能导致长期的焦虑和抑郁（Pasterski et al., 2014; Roberts et al., 2020; Wisniewski &amp; Sandberg, 2015）。这种情况可能会影响间性儿童所受的家长照料以及孩子的长期发展（Schweizer et al., 2017）。随着成长，这些孩子也有可能在生活的各个领域经历三种形式（被实施的、预期的、内化的）的污名化（Meyer-Bahlburg et al., 2018），以及其它潜在的困难，如身体意象问题、性别非典型行为以及性别认同方面的疑问。在意识到其受指派性别与生理特征（如性核型、性腺、过去和/或当前的性激素环境和生殖道状态）不一致时，许多人会面临更多的问题。这种情况也可能对个人的心理健康产生不利影响（Godfrey, 2021; Meyer-Bahlburg 2022）。最近一项纳入庞大LGBTQ青年样本的在线研究表明，报告自身具有身体上的间性变异的LGBTQ青年出现心理健康问题比例更高（Trevor Project, 2021）。由于间性状态很罕见，这些孩子的家长以及之后间性人士自己可能会体验到其处境是独特且难以让人理解的。因此，基于临床经验，间性人士照护方面经验丰富的医务人员达成了共识，即社会支持是照护的关键组成部分，其中不仅需要有心理健康专业人士的专业支持（Pasterski et al., 2010），间性人士的支持团体也十分重要（Baratz et al., 2014; Cull &amp; Simmonds, 2010; Hughes et al., 2006; Lampalzer et al., 2021）。Lee, Nordenström et al.（2016）提供了一项DSD和间性人士的同伴支持和维权团体及其网站的详细国际清单。考虑到间性状态和治疗方案的异质性，特定间性人士可能会发现，与具有相同或类似状况的成员组成的支持团体建立联系会最有帮助。专门从事间性人士照护的医务人员也应与这些支持团体密切合作，以便在照护的具体方面出现意见分歧时能够通过详细讨论解决。医务人员和支持团体之间的密切联系也能促进对双方都有利的基于社群的参与式研究。</p>
+
+<h3 id="声明-108"><u>声明 10.8</u></h3>
+
+<p><strong>我们建议医务人员根据个体的性别认同、年龄和具体医疗情况，就青春期阻滞和/或激素治疗方案向具有间性特征的个体及其家庭提供相关咨询。</strong></p>
+
+<p>虽然许多间性人士的性别认同与其XX或XY核型相一致，但实际情况往往因人而异，因此医务人员应该提供个体化的方法。例如，在患有男性化CAH的XX个体中，有超出预期的一部分人有男性性别认同（Dessens et al., 2005）。在患有部分性雄激素不敏感综合征的XY个体中，性别认同可能存在显著差异（Babu &amp; Shah, 2021）。此外，在患有5α-还原酶-2（5α-RD-2）缺乏症和17-β-羟类固醇脱氢酶-3缺乏症且出生时被指派为女性的XY个体中，随着年龄的增长，很大一部分（分别为56～63%和39～64%）从典型女性性别角色转变为典型男性角色（Cohen-Kettenis, 2005）。</p>
+
+<p>间性人士有广泛的医疗选项，取决于其性别认同以及这一认同与解剖结构的一致性。这些选项包括青春期阻滞药物、激素治疗和手术，而所有这些都须根据个人的独特情况定制（Weinand &amp; Safer, 2015; Safer &amp; Tangpricha, 2019）（更多相关信息参见 第六章 青少年 和 第十二章 激素治疗）。具体来说，当存在有功能的性腺时，可以通过使用促性腺激素释放激素（GnRH）类似物暂时抑制青春期。这种干预可以帮助个体获得必要的时间以探索其性别认同并积极参与其受指派性别生活，在常出现性别角色改变的情况下尤为如此（即作为女性被抚养的5α-RD-2缺乏的个体; Cocchetti, Ristori, Mazzoli et al., 2020; Fisher, Castellini et al., 2016）。</p>
+
+<p>如果医务人员有足够的专业技能，并能够利用其专业技能确定适合个人的治疗方案和实施所选治疗方案所涉及的资源保障，有条件的医务人员可以直接为个人及其家人提供咨询。</p>
+
+<h3 id="声明-109"><u>声明 10.9</u></h3>
+
+<p><strong>我们提议医务人员为间性儿童（当认识功能发展程度足够）及其家长提供咨询，以推迟性别肯定的生殖器和/或性腺手术，从而使得儿童有更强的自主权和参与基于知情同意的决策的能力。</strong></p>
+
+<p>国际人权组织越来越担心，在儿童能够有效参与决策之前进行手术可能会危及儿童的人权，包括自主权、自决权和选择未来的权利（如Human Rights Watch, 2017）。许多医疗组织和间性人权利组织以及一些国家已加入这些国际人权组织的行列，建议在医疗上可行时推迟手术（Dalke et al., 2020; National Academies of Sciences, Engineering, and Medicine, 2020）。然而，需要注意一些解剖变异如尿道梗阻或盆腔器官暴露会对身体健康构成迫在眉睫的风险（Mouriquand et al., 2016）。另一些状况如月经闭塞或隐睾（考虑到长期的恶性肿瘤风险）存在最终的身体后果。第三类变异，即外生殖器外观或阴道深度的变异，不会造成立即或长期的身体风险。上述建议只涉及那些如果不加以治疗不会立即产生不良身体后果，且延迟手术治疗不会造成身体健康风险的解剖变异。</p>
+
+<p>对有这些变异的个体而言，非紧急的手术照护复杂且经常存在争议，特别是当个体是婴儿或幼儿，尚不能参与决策过程时。年龄更大的间性个体报告了心理社会和性健康问题，包括抑郁，焦虑，以及性和社会污名（de Vries et al., 2019; Rosenwohl-Mack et al., 2020）。一些研究表明，具有特定变异的个体（如46-XX CAH）同意在青春期前进行手术（Bennecke et al., 2021）。最近的研究表明，一些青少年和成年人在儿童期手术后对生殖器的外观和功能感到满意（Rapp et al., 2021）。孩子的生殖器差异也可能成为家长的压力来源。有研究报告称，通过手术再造符合二元性别的生殖器与家长痛苦的有限的减少存在相关性（Wolfe-Christensen et al., 2017），尽管少数家长可能会报告后悔作出手术决定（Ellens et al., 2017）。因此，一些组织建议对非常年幼的儿童进行手术（American Urological Association, 2019; Pediatric Endocrine Society, 2020）。</p>
+
+<p>这显示了医学界关于早期生殖器手术管理准则的分歧，且本章作者也未完全达成共识。一些间性专家认为，在没有直接医疗风险的情况下，坚持普遍地推迟对生殖器变异的早期手术可能是有害的。支持这一观点的原因包括：</p>
+
+<ol>
+  <li>间性状态在类型和严重程度以及相关联的性腺结构、功能和恶性肿瘤风险方面具有高度异质性；</li>
+  <li>社会和家庭在性别规范和潜在的间性污名方面存在巨大差异；</li>
+  <li>早期手术可能具有一定的技术上的优点；</li>
+  <li>对间性个体（其中大多数人曾接受过生殖器手术）的调查的综述显示大多数人支持在同意年龄之前进行手术，特别是在46-XX CAH的个体中，而XY间性个体中的支持度更低（Meyer-Bahlburg, 2022）。</li>
+</ol>
+
+<p>支持这一观点的专家呼吁对生殖器手术及其时机的决定采取个体化的方法。这种方法已被拥有高比例间性专家的医学学会（Bangalore Krishna et al., 2021; Pediatric Endocrine Society, 2020; Speiser et al., 2018; Stark et al., 2019）和某些支持组织（CARES Foundation; Krege et al., 2019）所采用。</p>
+
+<p>然而，长期结果研究仍然有限，大多数报告积极结果的研究缺乏非手术对照组（Dalke, et al., 2020; National Academies of Sciences, Engineering, and Medicine, 2020），也没有证据表明手术可以保护间性儿童免受污名化的伤害（Roen, 2019）。具有间性特征的成人确实会经历与生殖器相关的污名、抑郁和焦虑，但无论是否接受手术都会经历污名（Ediati et al., 2017; Meyer-Bahlburg, Khuri et al., 2017; Meyer-Bahlburg et al., 2018）。也有证据表明，手术可能会导致严重的美观性、泌尿和性方面的并发症，持续到成年（Gong &amp; Cheng, 2017; National Academies of Sciences, Engineering, and Medicine, 2020）。最近的研究表明，一些个体可能在性腺切除术中有特别负面的经历，尽管这种风险必须与性腺恶性肿瘤的风险进行权衡（Duranteau et al., 2020; Rapp et al., 2021）。具有间性状态的人也远比一般人群更有可能成为跨性别者、多元性别者或有性别烦躁（Almasri et al., 2018; Pasterski et al., 2015）。因此，幼儿的生殖器手术可能会不可逆转地强化与个人未来不一致的二元性别指派。这些研究结果以及从人权出发的观点呼吁推迟决定手术的年龄，直到个人能够自己做出决定。</p>
+
+<p>迫切需要进行系统的长期随访研究，以比较具有相同间性状态但手术年龄不同或未做过手术的个体在性别认同、心理健康和总体生活质量方面的差异。</p>
+
+<h3 id="声明-1010"><u>声明 10.10</u></h3>
+
+<p><strong>我们提议只由对间性生殖器或性腺手术经验丰富的外科医生对间性人士进行手术。</strong></p>
+
+<p>间性状态是罕见的，并且间性个体间的生殖器和性腺解剖结构差异很大。手术可能存在引起重大长期并发症的风险（如National Academies of Sciences, Engineering, and Medicine, 2020），而且大多数外科培训课程并没有为学员提供这种专业照护的相关知识（Grimstad, Kremen et al., 2021）。考虑到整个生命周期中外科照护的复杂性，专家和国际共识制定的标准建议由多学科专家团队提供这种照护（Krege et al, 2019; Lee, Nordenström et al., 2016; Pediatric Endocrine Society, 2020）。因此，我们建议手术治疗仅限于在专门针对间性人的多学科环境中进行，其中须包含具有丰富间性人照护方面经验的外科医生。</p>
+
+<h3 id="声明-1011"><u>声明 10.11</u></h3>
+
+<p><strong>我们建议为有生育能力的间性个体开具或转介至激素治疗/手术的医务人员就以下方面为个体及其家人提供咨询，包括：</strong></p>
+
+<ol>
+  <li><strong>激素治疗/手术对未来生育力的已知影响；</strong></li>
+  <li><strong>缺乏充分研究且可逆程度未知的治疗的潜在影响；</strong></li>
+  <li><strong>生育力保存选项；</strong></li>
+  <li><strong>不育的心理社会影响。</strong></li>
+</ol>
+
+<p>具有某些间性状态的个体可能有具有生殖功能的生殖器，但由于非典型的性腺发育而不育。另一些人可能有功能正常的性腺和存活的生殖细胞，但由于内生殖器或外生殖器的不匹配而无法实现自然生育（van Batavia &amp; Kolon, 2016）。青春期阻滞、性激素治疗和性别肯定手术都可能对未来的生育能力产生不利影响。因此，治疗的潜在后果和生育力保存的选择应该得到审议和讨论。</p>
+
+<p>睾丸功能正常的个体若长期接受雌激素和睾酮抑制治疗，根据非间性的TGD人群中的研究，可能会导致睾丸萎缩和精子数量减少（Mattawanon et al., 2018）。虽然中断这种性别肯定激素治疗可以改善精子质量，但损伤不能保证完全逆转（Sermondade et al., 2021）。对于睾丸功能正常的个体来说，主要的生育力保存选项是将自慰或振动刺激收集得来的精子进行冷冻保存（de Roo et al., 2016）。虽然尚无在人类中成功的数据，但有一项建议是对尚未经历初精的青少年直接从睾丸提取未成熟睾丸组织进行冷冻保存（Mattawanon et al., 2018）。</p>
+
+<p>卵巢功能正常的个体若接受睾酮治疗，通常会在开始治疗的数月内停止月经和排卵。关于睾酮对卵母细胞和随后的生育力的潜在影响，目前尚存在重大知识空白。在跨性别人群中，一项研究报告睾酮治疗可能与多囊卵巢形态的形成有关（Grynberg et al., 2010）。然而，其他研究人员并未在接受性别肯定激素治疗的跨性别男性中基于代谢（Chan et al., 2018）或组织学（de Roo et al., 2017）状况发现多囊卵巢综合征（PCOS）的证据。如果停止睾酮治疗，子宫完好、卵巢功能正常的人可能会重新获得生育能力。</p>
+
+<p>青春期后具有间性特征和卵巢功能的人的生育力保存选择包括激素刺激成熟卵母细胞冷冻保存或卵巢组织冷冻保存。另外，即使是持续接受睾酮治疗的跨性别男性，也有一例经刺激提取卵母细胞的报道（Greenwald, 2021）。同样的，在接受GnRHa治疗的跨性别男孩中，也有一例卵巢刺激后卵母细胞冷冻保存的报道（Rothenberg et al., 2019）。值得注意的是，卵巢刺激、暂时停止GnRHa和/或睾酮治疗以及妇科手术都可能对个人造成心理痛苦，其应激反应受到心理健康、性别认同和其它医疗经历的影响。某些干预措施的适用性可能取决于个人社交网络中其他人（可能包括伴侣）的支持。</p>
+
+<h3 id="声明-1012"><u>声明 10.12</u></h3>
+
+<p><strong>我们提议照护间性和先天不育个体的医务人员从早期开始逐渐向个体及其家人介绍其它养育子女的选项。</strong></p>
+
+<p>具有间性特征的人可能在各个阶段（婴儿期、儿童期、青春期以及成年期）发现其不育状况，即使其并未尝试生育。许多人会同时被诊断为间性和不育（Jones, 2019）。对于某些个体，辅助异体受精（如卵母细胞或精子捐献）可能是一种选择。目前存在多种收养的途径，其中有些可能需要投入和相当多的时间消耗。不愿采用上述生育方法或完全无法生育的人群可以尽早接触收养和其它养育子女方式的选项。虽然子宫移植在苗勒氏管发育不全患者中取得了初步成功（Richards et al., 2021），但迄今为止，还没有一种方案可以避免将发育中的胎儿暴露于抗排异药物相关的风险中。</p>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[《照护指南》第七版中有一章讨论如何将指南适用于生理上存在间性状态并具有性别烦躁和/或寻求改变性别的群体。间性人群体在现象学表现、生活轨迹、流行率、成因和污名风险方面与没有间性状态的跨性别者存在差异。本章在此基础上进行了更新，并增加了针对间性群体的医疗必要的临床方法的建议（参见 第二章 全球适用性 声明2.1，医疗必要性声明），其原因是具有非典型的性别分化特征的个体自新生儿阶段开始就会面临临床上的问题，包括：可能从早期开始就会需要家庭教育和支持，可能需要进行性别指派的决策和后续的临床性别管理（其中——特别是涉及生殖器手术的部分——存在争议），且个体出现性别烦躁和发生性别改变的几率在后期存在显著增加（Sandberg &amp; Gardner, 2022）。]]></summary></entry><entry><title type="html">第十一章 机构环境</title><link href="http://localhost:4000/jekyll/2023-12-01-Chapter-11.html" rel="alternate" type="text/html" title="第十一章 机构环境" /><published>2023-12-01T00:00:00-05:00</published><updated>2023-12-01T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/Chapter-11</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-01-Chapter-11.html"><![CDATA[<p>本章主要探讨了如何为居住在机构中的跨性别和多元性别（TGD）人群提供照护。机构的定义是指人们在集体或大型群体环境中生活和接受照顾的设施或场所，在此类环境中，个体可能具有或不具有人身自由、个人同意权或自主权。跨性别者可能会在以下生活机构接受照护：监禁机构（惩教机构、移民拘留中心、监狱、少管所）和非监禁机构（长期照料机构、精神病医院、养老院、临终关怀/姑息疗法、辅助生活机构）。关于机构中TGD人士接受照护的证据大多来自于监禁机构。但是，此处提出的建议适用于所有TGD人士居住的机构，包括监禁和非监禁机构（Porter et al., 2016）。本指南的所有建议亦平等地适用于生活在这两类机构中的人。无论机构内的居住状况如何，TGD人士都应获得医疗必要的医疗保健措施（Brown, 2009）。在此类人士的照护工作中，必须考虑到其无法同社会人士那样自行获得照护。因此，应当支持此类人士接受符合本指南标准的照护。</p>
+
+<p>监禁设施中的TGD人士称其无法获得医疗必要的、针对跨性别者的医疗保健（参见 第二章 全球适用性 声明2.1，医疗必要性声明），这是其在监禁期间最关心的问题（Brown, 2014; Emmer et al., 2011）。许多监禁环境中存在固有的系统性种族不平等（Sawyer, 2020），存在健康状况方面的种族差异（Nowotny et al., 2017），且有色人种TGD人士在一些设施中比例相对较高（Reisner et al., 2014）。这说明，此类设施的管理层需要关注性别过渡照护的获取问题。对照研究表明，相较于未曾被监禁的跨性别人群，涉及司法监禁的跨性别人士在健康和心理健康方面存在显著弱势（Brown &amp; Jones, 2015）。提供照料的机构、系统和人员往往缺乏为多元性别人群提供照护的知识、训练和能力（Clark et al., 2017）。临终关怀等姑息治疗环境中，对TGD人士的歧视很常见。在此类环境中，TGD人士及其代理人的需求往往被忽视了（Stein et al., 2020）。这就是为什么女同性恋、男同性恋、双性恋和跨性别（LGBT）人士在进入疗养院时可能会选择隐藏其性倾向和/或性别认同，尽管事实上在入住前一直以LGBT身份公开生活（Carroll, 2017; Serafin et al., 2013）。</p>
+
+<p>本章中的所有建议声明，都是基于对证据的全面审查，对益处和危害的评估，服务提供者和服务对象的价值观和偏好，以及资源的消耗和可行性。在一些情况下，我们承认证据有限且/或服务可能无法获得，或并不理想。现有的大多数与机构相关的文献关注在拘留所、监狱或其它监禁环境中的人。我们还参考了可获得的关于其它机构类型的文献。我们希望未来的研究能关注非监禁机构数据相对缺乏的问题。上文概述的建议可推广到各种机构环境，其共同特点包括长期居住，自主权丧失或受限，以及部分或全部基本生活必需品需要依赖机构工作人员提供。</p>
+
+<Containers>
+
+## 建议声明
+
+11.1 我们建议负责向居住在机构（或与机构有关联）的跨性别和多元性别人士提供性别肯定照护的医务人员，认识到第八版照护指南的全部建议平等地适用于生活在机构中的人。
+
+11.2 我们提议各机构为所有工作人员提供多元性别相关的培训。
+
+11.3 我们建议，对于生活在机构中且需要性别肯定激素治疗的跨性别与多元性别人士，负责为其开具和监测激素的医务人员应依照本《照护指南》（第八版）提供服务，不应无故拖延。
+
+11.4 我们建议，对于生活在机构中的跨性别与多元性别人士，为其提供医疗保健的工作人员和专业人员在其提出要求时，应依照本《照护指南》（第八版）推荐并支持进行性别肯定手术治疗，不应无故拖延。
+
+11.5 我们建议负责照料跨性别与多元性别人士的管理人员、医务人员以及所有其他机构员工接受其获得与其性别表达相一致的服装和个人护理用品的要求。
+
+11.6 我们建议所有的机构工作人员在任何时候都使用其选择的名字和人称代词来称呼跨性别与多元性别人士。
+
+11.7 我们建议机构管理人员，医务人员和其他负责人员，在为跨性别与多元性别居住者安排住宿时，应考虑个人的住宿偏好、性别认同、性别表达和安全因素，而非仅按照其解剖特征或出生时受指派性别进行安排。
+
+11.8 我们建议机构人员制定住宿政策时，确保跨性别与多元性别居住者的安全，同时不将其隔离或孤立。
+
+11.9 我们建议机构人员根据请求允许跨性别与多元性别居住者私密地使用卫浴设施。
+
+</Containers>
+
+<h3 id="声明-111"><u>声明 11.1</u></h3>
+
+<p><strong>我们建议负责向居住在机构（或与机构有关联的）跨性别和多元性别人士提供性别肯定照护的医务人员，认识到第八版照护指南的全部建议平等地适用于生活在机构中的人。</strong></p>
+
+<p>生活在机构中的所有人都需要并应获得普通和专业领域的医疗保健（包括心理健康保健），跨性别与多元性别人群也不例外，且需要专门针对跨性别与多元性别问题的照护。我们建议将本照护指南（SOC）应用于生活在机构中的人群，即将其作为医疗保健和伦理方面的基本原则（Beauchamp &amp; Childress, 2019; Pope &amp; Vasquez, 2016）。此外，许多法院长期以来都支持根据WPATH SOC向生活在机构中的人群提供考虑到TGD人群的照护（如Koselik v. Massachusetts, 2002; Edmo v. Idaho Department of Corrections, 2020）。为长期居家服务提供人员配置的机构也应了解本《照护指南》的适用性。</p>
+
+<h3 id="声明-112"><u>声明 11.2</u></h3>
+
+<p><strong>我们提议各机构为所有工作人员提供多元性别相关的培训。</strong></p>
+
+<p>由于TGD照护只影响一小部分人群，本版指南中所述的专门培训很有必要。尽管员工在机构中的职责不同，所需培训水平也会有所差异，所有员工都需要接受如何适当地对待居住者的培训，而其他临床人员可能需要更深入的培训和/或咨询。而这些培训建议也适用于为家庭提供长期照料人员的机构。误称机构居住者的性别，不允许其穿着适合其性别认同的衣物、使用淋浴设施或住宿环境，以及不使用其自己选择的名字，都是对跨性别与多元性别居住者缺乏尊重的表现，因而可能会反复感到丧失尊严，进而遭受情感创伤并发生抑郁和焦虑。向所有机构工作人员提供多元性别特质和跨性别医疗方面基本能力的培训，可以预防这些危害（Hafford-Letchfield et al., 2017）。调查表明，无论是监禁人员的管理人员还是姑息治疗等非监禁环境中的工作人员都存在显著的知识空白（Stein et al., 2020; White et al., 2016）。Hafford-Letchfied et al.（2017）采用的培训方法从“认识到LBGT相关事宜在养老院中存在”开始，并表明此类对住院长期照料机构员工的培训是有益的。如果指定的医疗服务提供者缺乏评估和/或治疗其负责的多元性别人士的专业知识，则应从具有提供性别肯定医疗的专业知识的专业人士处寻求外部咨询（Brömdal et al., 2019; Sevelius &amp; Jenness, 2017）.</p>
+
+<h3 id="声明-113"><u>声明 11.3</u></h3>
+
+<p><strong>我们建议，对于生活在机构中且需要性别肯定激素治疗的跨性别与多元性别人士，负责为其开具和监测激素的医务人员应依照本《照护指南》（第八版）提供服务，不应无故拖延。</strong></p>
+
+<p>TGD人士可能在进入机构时就存在针对性别肯定激素治疗进行评估的需求，也可能在机构环境中居住了不同时长后产生这种需求。TGD居住者在提出此类需求后，可能在数月或数年内无法获得激素照护，或者治疗不足、监测不力，对药物的安全和疗效必要的剂量滴定<sup id="fnref:24" role="doc-noteref"><a href="#fn:24" class="footnote" rel="footnote">1</a></sup>受到延误，这种情况并不少见（Keohane, 2018; Kosilek v. Massachusetts, 2002; Monroe v. Baldwin et al., 2019）。这可能导致严重的负面心理健康后果，包括抑郁、焦虑、自杀，以及居住者自行进行手术的风险（Brown, 2010）。与所有医疗必要的保健一样，在监禁和非监禁机构环境中，都应及时为TGD居住者提供性别肯定激素治疗。医务人员应根据实验室检测和临床结果适当地滴定激素，以确保结果在内分泌学领域的推荐标准范围内。这类检测应定期进行，以避免延误适当的滴定时间。</p>
+
+<p>生活在长期照料机构中的老年TGD人士有独特的需求（Boyd, 2019; Caroll, 2017; Porter, 2016）。当老年人要求激素治疗时，虽然医生应该评估其已有的疾病，但这一人群很少出现使用激素是已有疾病的绝对禁忌的情况（Ettner, 2013）。在机构中性别不一致的人群也可能同时存在心理健康问题（Brown &amp; Jones, 2015; Cole et al., 1997）。作为总体评估的一部分，这些情况应该得到评估和适当治疗。接受激素的人群必须进行密切的医学监测，以避免潜在的药物相互作用和多重用药（Hembree et al., 2017）。</p>
+
+<p>进入机构时已经在接受适当的性别肯定激素治疗的TGD个体应该继续按照相同或类似的治疗方案进行，并根据本指南进行监测。使用“定格”（freeze frame）方法是不当且危险的（Kosilek v. Massachusetts, 2002）。“定格”是一种过时的方法，即拒绝为先前未接受激素治疗者启动激素治疗，或者在机构居住期间要求保持先前的激素剂量不变，即使该剂量是初始（较低的）剂量。对于被认为适宜新开始性别肯定激素治疗的TGD人士，应像在机构外一样开始该治疗（Adams v. Federal Bureau of Prisons, No. 09-10272 [D. MO June 7, 2010]; Brown, 2009）。突然停止激素治疗或在有医疗必要的情况下不启动激素治疗很可能导致严重的负面后果（Brown, 2010; Sundstrom &amp; Fields v. Frank, 2011），如自行手术去势、抑郁情绪、性别烦躁增加和/或自杀倾向（Brown, 2010; Maruri, 2011）。</p>
+
+<p>如果在机构中的TGD人士接受了性别肯定激素和/或手术治疗可能需要重新评估其在按性别划分的设施中的住宿安排，以确保个体的安全和福祉（Ministry of Justice [UK], 2016）。</p>
+
+<h3 id="声明-114"><u>声明 11.4</u></h3>
+
+<p><strong>我们建议，对于生活在机构中的跨性别与多元性别人士，为其提供医疗保健的工作人员和专业人员在其提出要求时，应依照本《照护指南》（第八版）推荐并支持进行性别肯定手术治疗，不应无故拖延。</strong></p>
+
+<p>对于有性别烦躁的TGD人士，应有适当的治疗计划，以提供与非机构居住者所采取的项目类似的医疗必要的手术（Adams v. Federal Bureau of Prisons, No. 09-10272 [D. MO June 7, 2010]; Brown 2009; Edmo v. Idaho Department of Corrections, 2020）。机构居住者若被拒绝或无法获取性别肯定手术治疗，且在机构外亦无法获取此类治疗，可能会导致严重后果，包括性别烦躁症状的大幅恶化、抑郁、焦虑、自杀倾向以及可能的自行手术（例如自行去势或自行切断阴茎；Brown, 2010; Edmo v. Idaho Department of Corrections, 2020; Maruri, 2011）。机构居住者被拒绝实施性别肯定手术或被拒绝得到手术评估的情况屡见不鲜，即使这在医疗上是必要的（Kosilek v. Massachusetts/Dennehy, 2012; Edmo v. Idaho Department of Corrections, 2020）。拒绝提供医疗必要的性别肯定手术、手术评估及适当的术后护理是不当的，且违背了本照护指南的要求。</p>
+
+<h3 id="声明-115"><u>声明 11.5</u></h3>
+
+<p><strong>我们建议负责照料跨性别与多元性别人士的管理人员、医务人员以及所有其他机构员工接受其获得与其性别表达相一致的服装和个人护理用品的要求。</strong></p>
+
+<p>性别表达是指人们依其文化和/或社群拥有与其性别认同相关联的发型、个人护理用品（grooming products）、服装、名称和代词（American Psychological Association, 2015; Hembree et al., 2017）。在特定文化或社群中，性别表达是大多数人所遵循的规范。社会过渡是指TGD人士开始并持续地以真实和社会可感知的方式表达其性别认同的过程。通常情况下，人们常会基于出生时受指派性别，期待个体采取相应的行为和公开表达，而社会过渡涉及采取与之不同的行为和公开表达。性别标记是通常在出生时在官方文件上指派给个人的法定性别标签（American Psychological Association, 2015）。性别标记通常被记录为男性或女性，但在一些国家和司法管辖区中，也存在间性或“X”标记。TGD个体需要与居住在机构内外的顺性别人群一样，在性别表达方面享有同样的权利。工作人员对社会过渡的接纳也会建立一种尊重和肯定的氛围，从而增强其他机构居住者的尊重和支持，以增加安全性和减少某些性别不一致方面的问题。</p>
+
+<p>研究表明，社会过渡和一致的性别表达对TGD人群的心理健康有显著的益处（Bockting &amp; Coleman, 2007; Boedecker, 2018; Devor, 2004; Glynn et al., 2016; Russell et al., 2018）。这些建议包括允许穿戴和拥有与自我性别认同一致的服装和发型、获得和使用与性别相符合的卫生和个人护理用品、称呼个体时使用个体自己所选的名字或使用法律层面上的姓氏（即使无法在法律上更改先前被起的名字），并要求称呼时使用的代词与自身认同一致。根据个人的需求单独或共同采用这些性别表达和社会过渡的元素，可以减轻性别烦躁/不一致、抑郁、焦虑、自我伤害意念和行为，以及自杀意念和企图（Russell et al., 2018）。此外，这些一致的性别表达要素也会提高幸福感和功能（Glynn et al., 2016）。</p>
+
+<h3 id="声明-116"><u>声明 11.6</u></h3>
+
+<p><strong>我们建议所有的机构工作人员在任何时候都使用其选择的名字和人称代词来称呼跨性别与多元性别人士。</strong></p>
+
+<p>随着越来越多的人公开表明其多元性别认同，有必要制订和实施能够满足这些人需求的做法和政策，无论其居住在何处（McCauley et al., 2017）。例如，机构的医疗和管理系统应记录与性别认同一致而不仅仅是与出生时受指派性别一致的居住者信息。在制定这些建议方案时，我们承认性别拓展或多元性别特质可能会动摇一些TGD人士所居住的机构的现有规范。但是，所有机构都有责任促进其中所有居住者的安全和福祉（Australia, 2015; Corrective Services New South Wales, 2015; Edmo v. Idaho Department of Corrections, 2020; Kosilek v. Massachusetts, 2002; NCCHC, 2015）。Sevelius et al.（2020）表明正确使用代词对于跨性别女性而言是性别肯定的，且与积极的心理健康和HIV相关健康结果相关联。如果机构居住者已经依法更名，则应更新机构记录以反映这些更改。</p>
+
+<h3 id="声明-117"><u>声明 11.7</u></h3>
+
+<p><strong>我们建议机构管理人员，医务人员和其他负责人员，在为跨性别与多元性别居住者安排住宿时，应考虑个人的住宿偏好、性别认同、性别表达和安全因素，而非仅按照其解剖特征或出生时受指派性别进行安排。</strong></p>
+
+<p>机构中普遍使用出生时受指派性别隔离其居住者（Brown &amp; McDuffie, 2009; Routh et al., 2017），这可能会创造一个固有的危险环境（Ledesma &amp; Ford, 2020）。多元性别人士极易遭受污名化、迫害、忽视、暴力和性侵犯的危害（Banbury, 2004; Beck, 2014; Jenness &amp; Fenstermaker, 2016; Malkin &amp; DeJong, 2018; Oparah, 2012; Stein et al., 2020）。这种系统性僵化的性别隔离政策常常无法保障TGD人群的安全，也可能会阻碍其获得性别肯定医疗（Stohr, 2015）。因此，机构应定期评估TGD居住者的住宿需求和偏好（如Federal Bureau of Prisons, 2016）。同样的，美国的《消除监狱强奸法》将TGD人群列为特别易受侵害的群体之一，并要求美国全国的监狱考虑此类囚犯的住宿偏好（Bureau of Justice Assistance, 2017）。</p>
+
+<h3 id="声明-118"><u>声明 11.8</u></h3>
+
+<p><strong>我们建议机构人员制定住宿政策时，确保跨性别与多元性别居住者的安全，同时不将其隔离或孤立。</strong></p>
+
+<p>仅根据TGD居住者的生殖器解剖结构或出生时受指派性别来安排住宿是错误的，并且会造成身心伤害的风险（Scott, 2013; Simopoulos &amp; Khin, 2014; Yona &amp; Katri, 2020）。监狱环境中已经广泛认识到，TGD个体比其他囚犯更容易受到性骚扰和/或性侵犯（James et al., 2016; Jenness &amp; Fenstermaker, 2016; Malkin &amp; DeJong, 2019）。在住宿安排中需要考虑安全问题，但同时应视具体情况确定，采取共同决策的方式，并考虑个体的意见（Federal Bureau of Prisons, 2016; Jenness &amp; Smyth, 2011）。一些跨性别女性倾向于住在男性设施中，而另一些人则认为住在女性设施中更安全。考虑到多元性别人群的性别认同、表达和过渡状态个体差异极大，须采取灵活的决策过程以保护居住者的安全（Yona &amp; Katri, 2020）。老年LGBT人士在长期照护机构中居住时的担忧之一是受到室友的虐待（Jablonski et al., 2013）。因此，在养老院和辅助生活设施中住所的分配，应考虑基于老人的自我认同性别而非其出生时受指派性别或手术历史，并在分配过程中与TGD个体合作。</p>
+
+<p>单独监禁，有时在监禁设施中称为行政隔离，指将个人与外界隔离的措施，在此期间每天会将其关押在囚室内长达约23个小时。某些监禁设施使用孤立作为一种惩戒手段，或作为对被认为对自己或他人有危险或受到其他囚犯性侵威胁的囚犯的保护手段。然而，必要时出于安全考虑隔离囚犯应以短暂为宜，因为隔离会导致严重的心理伤害和功能紊乱（Ahalt et al., 2017; Scharff Smith, 2006）。美国的监狱标准组织和联合国将超过15天的隔离视为酷刑（NCCHC, 2016; United Nations, 2015）。</p>
+
+<h3 id="声明-119"><u>声明 11.9</u></h3>
+
+<p><strong>我们建议机构人员根据请求允许跨性别与多元性别居住者私密地使用卫浴设施。</strong></p>
+
+<p>无论性别认同如何，隐私有普遍的必要性和重要性。TGD人士报告称自己尽可能不使用公共卫生间且限制摄取食物和饮品，以免使用公共设施。这经常导致尿路感染和肾脏相关问题（James et al., 2016）。在机构中，TGD人士在使用卫浴设施时常常被剥夺隐私，这可能导致心理伤害和/或身体和性侵犯（Bartels &amp; Lynch, 2017; Brown, 2014; Cook-Daniels, 2016; Mann, 2006）。同样的，监禁环境中搜身、赤身搜查和体腔检查应由同性别的工作人员进行，尽管应理解在紧急情况下可能无法做到。应避免其他员工偶然目睹此类搜查过程（Bureau of Justice Assistance, 2017）。某些法律也要求监禁中的跨性别人士单独使用卫浴设施，如美国的《消除监狱强奸法》（Prison Rape Elimination Act）。</p>
+
+<p>需要机构服务的老年TGD人群正在增加（Carroll, 2017; Witten &amp; Eyler, 2016）。许多长期照料机构和其它为老年人提供服务的机构需要考虑非顺性别居住者的需求（Ettner, 2016; Ettner &amp; Wiley, 2016）。在对临终关怀、姑息治疗以及其它长期照料机构工作的医务人员的调查中发现，TGD认同的个体的基本需求经常无法满足，并受到获得医疗保健方面的歧视，或遭受身体和/或情感虐待（Steain et al., 2020）。根据澳大利亚的退休和住宿照料服务提供者的调查发现，这些提供者对TGD人群所面临的问题的经验和了解甚少。实际上，许多年长的TGD居住者都承认会因害怕遭受缺乏敏感性的对待乃至直接表达出来的歧视而隐瞒自己的性别认同（Cartwright et al., 2012; Cook-Daniels, 2016; Grant et al., 2012; Horner et al., 2012; Orel &amp; Fruhauf, 2015）。</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:24" role="doc-endnote">
+      <p>译者注：剂量滴定（titration）指在一段时间内缓慢增加药物剂量并进行相应评估，以确定对个体而言最合适的剂量。 <a href="#fnref:24" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>SOC-8中文翻译组</name></author><category term="Jekyll" /><summary type="html"><![CDATA[本章主要探讨了如何为居住在机构中的跨性别和多元性别（TGD）人群提供照护。机构的定义是指人们在集体或大型群体环境中生活和接受照顾的设施或场所，在此类环境中，个体可能具有或不具有人身自由、个人同意权或自主权。跨性别者可能会在以下生活机构接受照护：监禁机构（惩教机构、移民拘留中心、监狱、少管所）和非监禁机构（长期照料机构、精神病医院、养老院、临终关怀/姑息疗法、辅助生活机构）。关于机构中TGD人士接受照护的证据大多来自于监禁机构。但是，此处提出的建议适用于所有TGD人士居住的机构，包括监禁和非监禁机构（Porter et al., 2016）。本指南的所有建议亦平等地适用于生活在这两类机构中的人。无论机构内的居住状况如何，TGD人士都应获得医疗必要的医疗保健措施（Brown, 2009）。在此类人士的照护工作中，必须考虑到其无法同社会人士那样自行获得照护。因此，应当支持此类人士接受符合本指南标准的照护。]]></summary></entry></feed>
